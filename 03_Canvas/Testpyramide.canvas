@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"tp_grp_pyramid","type":"group","x":-100,"y":-1180,"width":1200,"height":750,"label":"Pyramide"},
+		{"id":"tp_grp_val","type":"group","x":-750,"y":-1180,"width":580,"height":750,"label":"Einordnung im V-Modell"},
+		{"id":"tp_title","type":"text","text":"# Testpyramide\n\nJe **höher** in der Pyramide:\n- Mehr Aufwand · Langsamer · Teurer · Weniger Tests\n\nJe **tiefer** in der Pyramide:\n- Schneller · Günstiger · Mehr Tests\n\n→ Anstreben: Breite Basis aus Unit-Tests!","x":200,"y":-1450,"width":880,"height":200},
+		{"id":"tp_val_text","type":"text","text":"**Validierung**\n_Wurde die richtige Software gebaut?_\n\n↕\n\n**Verifikation**\n_Wurde die Software richtig gebaut?_","x":-730,"y":-1100,"width":540,"height":400},
+		{"id":"tp_layer1","type":"text","text":"🏆 **Abnahmetest / End-zu-Ende-Test**\nWenige · Sehr langsam · Teuer\n→ Validierung: Kundenanforderungen erfüllt?","x":100,"y":-1150,"width":1000,"height":120,"color":"1"},
+		{"id":"tp_layer2","type":"text","text":"🔍 **Systemtest**\nWenige · Langsam\n→ Verifikation: Gesamtsystem gemäß Systemarchitektur?","x":50,"y":-1010,"width":1100,"height":110,"color":"3"},
+		{"id":"tp_layer3","type":"text","text":"🔗 **Integrationstests**\nMittel · Mittelschnell\n→ Verifikation: Zusammenspiel der Komponenten gemäß System-Entwurf?","x":0,"y":-880,"width":1200,"height":110,"color":"4"},
+		{"id":"tp_layer4","type":"text","text":"⚙️ **Unit-Tests (Komponententests)**\nViele · Sehr schnell · Günstig\n→ Verifikation: Komponenten gemäß Software-Architektur implementiert?","x":-50,"y":-750,"width":1300,"height":110,"color":"5"},
+		{"id":"tp_f1","type":"file","file":"Studium/02_Wissen/Abnahmetest - End-zu-End-Test.md","x":1440,"y":-1150,"width":380,"height":120,"color":"1"},
+		{"id":"tp_f2","type":"file","file":"Studium/02_Wissen/Systemtest.md","x":1440,"y":-1010,"width":380,"height":110,"color":"3"},
+		{"id":"tp_f3","type":"file","file":"Studium/02_Wissen/Integrationstests.md","x":1440,"y":-880,"width":380,"height":110,"color":"4"},
+		{"id":"tp_f4","type":"file","file":"Studium/02_Wissen/Unit-Tests.md","x":1440,"y":-750,"width":380,"height":110},
+		{"id":"tp_vmodell","type":"file","file":"Studium/02_Wissen/V-Modell.md","x":-50,"y":-280,"width":380,"height":200},
+		{"id":"tp_impl","type":"file","file":"Studium/02_Wissen/Implementierung und Test.md","x":640,"y":-280,"width":380,"height":200}
+	],
+	"edges":[
+		{"id":"tp_e1","fromNode":"tp_layer4","fromSide":"top","toNode":"tp_layer3","toSide":"bottom"},
+		{"id":"tp_e2","fromNode":"tp_layer3","fromSide":"top","toNode":"tp_layer2","toSide":"bottom"},
+		{"id":"tp_e3","fromNode":"tp_layer2","fromSide":"top","toNode":"tp_layer1","toSide":"bottom"},
+		{"id":"tp_e4","fromNode":"tp_layer1","fromSide":"right","toNode":"tp_f1","toSide":"left"},
+		{"id":"tp_e5","fromNode":"tp_layer2","fromSide":"right","toNode":"tp_f2","toSide":"left"},
+		{"id":"tp_e6","fromNode":"tp_layer3","fromSide":"right","toNode":"tp_f3","toSide":"left"},
+		{"id":"tp_e7","fromNode":"tp_layer4","fromSide":"right","toNode":"tp_f4","toSide":"left"},
+		{"id":"tp_e8","fromNode":"tp_title","fromSide":"bottom","toNode":"tp_vmodell","toSide":"top"},
+		{"id":"tp_e9","fromNode":"tp_title","fromSide":"bottom","toNode":"tp_impl","toSide":"top"},
+		{"id":"tp_e10","fromNode":"tp_val_text","fromSide":"right","toNode":"tp_layer1","toSide":"left","label":"Validierung"},
+		{"id":"tp_e11","fromNode":"tp_val_text","fromSide":"right","toNode":"tp_layer4","toSide":"left","label":"Verifikation"}
+	]
+}

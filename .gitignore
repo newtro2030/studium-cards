@@ -1,0 +1,10 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+.claude/
+.trash/
+.DS_Store
+*.pdf
+*.pptx
+*.docx
+*.xlsx

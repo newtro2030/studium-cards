@@ -1,5 +1,3 @@
-## Spiralmodell
-
 Risikogetriebenes [[Softwareentwicklung|Vorgehensmodell]] für Softwareprojekte (Barry Boehm). Verknüpfung von Vorgehensmodell und [[Softwareprototypen|Prototyping]]-Ansätzen.
 
 ### Charakteristika

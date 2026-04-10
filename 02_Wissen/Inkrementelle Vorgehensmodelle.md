@@ -1,5 +1,3 @@
-## Inkrementelle Vorgehensmodelle
-
 Weiterentwicklung des [[Wasserfallmodell]]s. Statt das Gesamtsystem in gesamter Breite zu entwickeln, wird es in **unabhängig entwickelbare Teilsysteme (Inkremente)** zerlegt.
 
 ### Grundidee

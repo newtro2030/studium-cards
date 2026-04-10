@@ -1,5 +1,3 @@
-## Code-and-Fix-Zyklus
-
 Vorgehensweise für **kleine Softwareprojekte** ohne strukturiertes Vorgehensmodell.
 
 ### Ablauf

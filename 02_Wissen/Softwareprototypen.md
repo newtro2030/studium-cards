@@ -1,5 +1,3 @@
-## Softwareprototypen
-
 Prototypen sind **partielle Implementierungen von Softwaresystemen**. Sie ermöglichen Auftraggeber/innen, Anwender/innen und Entwickler/innen, etwas über das zu lösende Problem oder dessen Lösungen zu lernen.
 
 ### Typen nach Dimension (Struktur)

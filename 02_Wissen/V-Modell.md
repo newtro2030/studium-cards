@@ -1,5 +1,3 @@
-## V-Modell
-
 Erweiterung des [[Wasserfallmodell]]s durch explizite Zuordnung von **Qualitätssicherungsmaßnahmen** zu jeder Entwicklungsphase.
 
 ### Grundidee

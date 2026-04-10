@@ -1,4 +1,3 @@
-## Softwareentwicklung (Software Engineering / Softwaretechnik)
 
 > "Zielorientierte Bereitstellung und systematische Verwendung von Prinzipien, Methoden und Werkzeugen für die arbeitsteilige, ingenieurmäßige Herstellung, Anwendung und Pflege von umfangreichen Softwaresystemen."
 > *(Balzert: Lehrbuch der Softwaretechnik, 3. Auflage, 2009)*

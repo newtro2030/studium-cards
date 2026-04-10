@@ -36,9 +36,20 @@ maximale Datenrate = B · log₂(1 + S/N)
 | **Shannon** | Theoretisches Maximum mit Rauschen |
 | **S/N-Verhältnis** | Signalstärke zu Rauschleistung |
 
-> **Merksatz:** Je breiter der Kanal und je besser das Signal, desto mehr Daten passen hindurch – aber physikalische Grenzen bleiben.
+### Multiplexing (Medienzugriff)
 
-→ Siehe auch: [[Übertragungsmedien]] | [[Drahtlose Übertragung]] | [[OSI- und TCP-IP-Modell]]
+Wird genutzt, um ein Übertragungsmedium für mehrere Teilnehmer gleichzeitig nutzbar zu machen.
+
+| Verfahren | Name | Funktionsweise | Beispiel |
+|---|---|---|---|
+| **FDM** | Frequency Division Multiplexing | Verschiedene Frequenzbänder | Klassischer Rundfunk (Radio/TV) |
+| **TDM** | Time Division Multiplexing | Feste Zeitschlitze nacheinander | Telefonie (ISDN, GSM-Zeitschlitze) |
+| **WDM** | Wavelength Division Multiplexing | Verschiedene Lichtwellenlängen | Glasfaserübertragung (Backbone) |
+| **CDM** | Code Division Multiplexing | Mathematische Codierung (Codes) | Mobilfunk (UMTS, CDMA) oder GPS |
+
+> **Merksatz:** Multiplexing bündelt mehrere Kanäle auf einer Leitung – wie verschiedene Spuren auf einer Autobahn.
+
+→ Siehe auch: [[Übertragungsmedien]] | [[Drahtlose Übertragung]] | [[OSI- und TCP-IP-Modell]] | [[Kanalzuweisung]]
 
 ## Lernkarten
 

@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"rn_title","type":"text","text":"# Rechnernetze\n\nÜberblick über alle Wissensbausteine nach Kapiteln","x":-400,"y":-720,"width":800,"height":120},
+		{"id":"grp_kap3","type":"group","x":-1820,"y":220,"width":1700,"height":520,"label":"Kapitel 3 – Data Link & MAC Layer"},
 		{"id":"grp_kap1","type":"group","x":-1820,"y":-380,"width":1700,"height":500,"label":"Kapitel 1 – Grundlagen"},
 		{"id":"grp_kap2","type":"group","x":0,"y":-380,"width":1620,"height":500,"label":"Kapitel 2 – Physical Layer"},
-		{"id":"grp_kap3","type":"group","x":-1820,"y":220,"width":1700,"height":520,"label":"Kapitel 3 – Data Link & MAC Layer"},
 		{"id":"grp_kap4","type":"group","x":0,"y":220,"width":930,"height":370,"label":"Kapitel 4 – Kanalzuweisung & ALOHA"},
-		{"id":"f_overview","type":"file","file":"Studium/02_Wissen/Rechnernetze – Überblick.md","x":-1800,"y":-320,"width":490,"height":160},
+		{"id":"rn_title","type":"text","text":"# Rechnernetze\n\nÜberblick über alle Wissensbausteine nach Kapiteln","x":-400,"y":-720,"width":800,"height":120},
+		{"id":"f_overview","type":"file","file":"02_Wissen/Rechnernetze – Überblick.md","x":-1800,"y":-320,"width":490,"height":160},
 		{"id":"f_netztypen","type":"file","file":"Studium/02_Wissen/Netzwerktypen (PAN, LAN, MAN, WAN).md","x":-1290,"y":-320,"width":490,"height":160},
 		{"id":"f_software","type":"file","file":"Studium/02_Wissen/Netzwerksoftware.md","x":-780,"y":-320,"width":490,"height":160},
 		{"id":"f_osi","type":"file","file":"Studium/02_Wissen/OSI- und TCP-IP-Modell.md","x":-1800,"y":-140,"width":490,"height":160},
@@ -18,14 +18,14 @@
 		{"id":"f_kabel","type":"file","file":"Studium/02_Wissen/Kabelfernsehnetze.md","x":1060,"y":-140,"width":490,"height":160},
 		{"id":"f_sicherung","type":"file","file":"Studium/02_Wissen/Sicherungsschicht.md","x":-1800,"y":280,"width":380,"height":160},
 		{"id":"f_framing","type":"file","file":"Studium/02_Wissen/Framing.md","x":-1400,"y":280,"width":380,"height":160},
+		{"id":"f_kanal","type":"file","file":"Studium/02_Wissen/Kanalzuweisung.md","x":20,"y":280,"width":420,"height":160},
+		{"id":"f_aloha","type":"file","file":"Studium/02_Wissen/ALOHA-Protokolle.md","x":460,"y":280,"width":420,"height":160},
 		{"id":"f_fehlerk","type":"file","file":"Studium/02_Wissen/Fehlererkennung.md","x":-1000,"y":280,"width":380,"height":160},
 		{"id":"f_fehlerkorr","type":"file","file":"Studium/02_Wissen/Fehlerkorrektur.md","x":-600,"y":280,"width":380,"height":160},
 		{"id":"f_fluss","type":"file","file":"Studium/02_Wissen/Flusskontrolle.md","x":-1800,"y":460,"width":380,"height":160},
 		{"id":"f_mac","type":"file","file":"Studium/02_Wissen/MAC-Sublayer.md","x":-1400,"y":460,"width":380,"height":160},
 		{"id":"f_ethernet","type":"file","file":"Studium/02_Wissen/Ethernet (IEEE 802.3).md","x":-1000,"y":460,"width":380,"height":160},
-		{"id":"f_wlan","type":"file","file":"Studium/02_Wissen/WLAN (IEEE 802.11).md","x":-600,"y":460,"width":380,"height":160},
-		{"id":"f_kanal","type":"file","file":"Studium/02_Wissen/Kanalzuweisung.md","x":20,"y":280,"width":420,"height":160},
-		{"id":"f_aloha","type":"file","file":"Studium/02_Wissen/ALOHA-Protokolle.md","x":460,"y":280,"width":420,"height":160}
+		{"id":"f_wlan","type":"file","file":"Studium/02_Wissen/WLAN (IEEE 802.11).md","x":-600,"y":460,"width":380,"height":160}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"rn_title","fromSide":"left","toNode":"grp_kap1","toSide":"top"},

@@ -42,3 +42,17 @@ Moderne Switches **trennen Kollisionsdomänen** → kein CSMA/CD mehr nötig →
 > **Merksatz:** Ethernet hat sich vom geteilten Koaxialkabel zum Gigabit-Backbone entwickelt – schnell, skalierbar, universell.
 
 → Siehe auch: [[MAC-Sublayer]] | [[Sicherungsschicht]] | [[Übertragungsmedien]] | [[OSI- und TCP-IP-Modell]]
+
+## Lernkarten
+
+Q: Wie ist ein Ethernet-Frame aufgebaut?
+A: Präambel (7B) → SFD (1B) → Zieladresse (6B) → Quelladresse (6B) → Typ/Länge (2B) → Nutzdaten (46–1500B) → CRC (4B). Mindestgröße: **64 Byte**.
+
+Q: Was ist eine MAC-Adresse und wie lautet die Broadcast-Adresse?
+A: Eine **48-Bit-Adresse** (6 Bytes) zur eindeutigen Geräteidentifikation, z. B. `08:00:27:12:AB:CD`. Broadcast: `FF:FF:FF:FF:FF:FF`.
+
+Q: Was ist Switched Ethernet und welchen Vorteil hat es gegenüber klassischem Ethernet?
+A: Switches **trennen Kollisionsdomänen** → kein CSMA/CD mehr nötig → **Vollduplexbetrieb** möglich → parallele Kommunikation, höhere Leistung.
+
+Q: Welche Ethernet-Versionen gibt es?
+A: **10BASE-T** (10 Mbit/s), **100BASE-TX** (100 Mbit/s), **1000BASE-T** (1 Gbit/s, Twisted Pair), **10GBASE-LR** (10 Gbit/s, Glasfaser), **100GBASE-ER4** (100 Gbit/s).

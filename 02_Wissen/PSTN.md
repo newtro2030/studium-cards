@@ -33,3 +33,17 @@ Das **öffentliche Vermittlungstelefonnetz** – ursprünglich analog, heute gr�
 > **Merksatz:** Das Telefonnetz war der Ursprung der weltweiten Kommunikation – heute trägt es Daten, nicht nur Stimmen.
 
 → Siehe auch: [[Übertragungsmedien]] | [[Mobilfunk]] | [[Kabelfernsehnetze]]
+
+## Lernkarten
+
+Q: Was ist der Local Loop im PSTN?
+A: Die Verbindung vom **Hausanschluss bis zur nächsten Vermittlungsstelle** – meist aus Kupferdraht (Twisted Pair). Kann Analog- oder DSL-Signale übertragen.
+
+Q: Was ist der Unterschied zwischen FDM und TDM?
+A: **FDM** (Frequency Division Multiplexing): Analog, verschiedene Frequenzbänder gleichzeitig. **TDM** (Time Division Multiplexing): Digital, Zeitschlitze für verschiedene Signale.
+
+Q: Wie wird das Internet über PSTN-Leitungen realisiert?
+A: Über **DSL** (Digital Subscriber Line) – nutzt bestehende Telefonleitungen für Breitbandinternet. Heute ersetzt **VoIP** zunehmend die klassische Telefonie.
+
+Q: Wie ist das PSTN hierarchisch aufgebaut?
+A: 1. **Lokale Vermittlungsstelle** → 2. **Tandem-/Regionalknoten** → 3. **Backbone-Knoten** (Landes-/Fernverbindungen).

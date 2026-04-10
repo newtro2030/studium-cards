@@ -52,3 +52,17 @@ Funkgeräte können nicht gleichzeitig senden und hören → Kollisionen **nicht
 > **Merksatz:** WLAN ist Ethernet ohne Kabel – aber mit Funk, Kollisionsvermeidung und verschlüsseltem Zutritt.
 
 → Siehe auch: [[MAC-Sublayer]] | [[Drahtlose Übertragung]] | [[Ethernet (IEEE 802.3)]] | [[Kanalzuweisung]]
+
+## Lernkarten
+
+Q: Warum verwendet WLAN CSMA/CA statt CSMA/CD?
+A: Funkgeräte können nicht gleichzeitig senden und empfangen → Kollisionen sind nicht erkennbar. Deshalb wird **Kollisionsvermeidung (CA)** statt Kollisionserkennung (CD) eingesetzt.
+
+Q: Was ist das Hidden Node Problem und wie löst RTS/CTS es?
+A: Zwei Stationen können sich nicht gegenseitig hören, aber der AP schon → Kollisionsgefahr. Lösung: Station sendet **RTS** → AP antwortet mit **CTS** → alle anderen Stationen halten sich zurück.
+
+Q: Was ist der Unterschied zwischen Infrastrukturmodus und Ad-hoc-Modus?
+A: **Infrastruktur**: Geräte kommunizieren über einen **Access Point** (Praxisstandard). **Ad-hoc**: Direkte Kommunikation zwischen Geräten ohne AP.
+
+Q: Welche WLAN-Sicherheitsstandards gibt es in der richtigen Reihenfolge?
+A: **WEP** (veraltet, unsicher) → **WPA** (Übergangslösung) → **WPA2** (AES-CCMP, aktueller Standard) → **WPA3** (seit 2018, stärkster Schutz).

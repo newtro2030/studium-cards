@@ -34,3 +34,17 @@ Anzahl der Bits, die sich zwei gültige Codewörter unterscheiden.
 > **Merksatz:** Fehler erkennen ist gut – Fehler automatisch beheben ist besser.
 
 → Siehe auch: [[Fehlererkennung]] | [[Flusskontrolle]] | [[Sicherungsschicht]]
+
+## Lernkarten
+
+Q: Was ist der Hamming-Abstand?
+A: Die **Anzahl der Bits**, die sich zwei gültige Codewörter unterscheiden. Maß für die Fehlererkennungs- und Korrekturfähigkeit eines Codes.
+
+Q: Was kann ein Code mit Hamming-Abstand d=3?
+A: **2 Fehler erkennen** und **1 Bitfehler automatisch korrigieren**.
+
+Q: Was ist der Unterschied zwischen FEC und ARQ?
+A: **FEC** (Forward Error Correction): Empfänger korrigiert Fehler lokal – kein Rückkanal nötig. Geeignet für hohe Latenz (Satelliten). **ARQ** (Automatic Repeat reQuest): Fehler erkannt → Wiederholung anfordern. Einfacher, aber verzögert.
+
+Q: Wie funktioniert der Hamming-Code?
+A: Sender berechnet **Prüfbits** an Positionen 2ⁿ (1, 2, 4, ...). Jeder Prüfbit kontrolliert bestimmte Datenbits. Der Empfänger prüft erneut – die fehlerhafte Position ergibt sich aus dem Ergebnis.

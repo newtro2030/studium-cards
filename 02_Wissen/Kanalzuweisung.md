@@ -35,3 +35,14 @@ Kanalnutzung wird **flexibel** angepasst je nach aktuellem Bedarf.
 > **Merksatz:** Ein gemeinsames Medium braucht klare Regeln – sonst reden alle durcheinander.
 
 → Siehe auch: [[ALOHA-Protokolle]] | [[MAC-Sublayer]] | [[Ethernet (IEEE 802.3)]] | [[WLAN (IEEE 802.11)]]
+
+## Lernkarten
+
+Q: Was ist der Unterschied zwischen statischer und dynamischer Kanalzuweisung?
+A: **Statisch**: Feste Zuweisung (FDM, TDM) – einfach, aber ineffizient bei ungleicher Nutzung. **Dynamisch**: Flexibel je nach Bedarf – effizienter, aber komplexer und kollisionsgefährdet.
+
+Q: Was ist FDM und was ist TDM?
+A: **FDM** (Frequency Division Multiplexing): Jeder Nutzer bekommt einen eigenen Frequenzbereich. **TDM** (Time Division Multiplexing): Jeder Nutzer bekommt einen Zeitslot.
+
+Q: Was ist der Nachteil zentralisierter dynamischer Kanalzuweisung?
+A: **Einzelpunkt-Ausfall** und Verzögerungen, da alle Zugriffe durch eine zentrale Instanz koordiniert werden müssen.

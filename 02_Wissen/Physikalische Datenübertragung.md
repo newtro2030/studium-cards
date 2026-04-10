@@ -39,3 +39,17 @@ maximale Datenrate = B · log₂(1 + S/N)
 > **Merksatz:** Je breiter der Kanal und je besser das Signal, desto mehr Daten passen hindurch – aber physikalische Grenzen bleiben.
 
 → Siehe auch: [[Übertragungsmedien]] | [[Drahtlose Übertragung]] | [[OSI- und TCP-IP-Modell]]
+
+## Lernkarten
+
+Q: Was besagt die Nyquist-Formel?
+A: Maximale Datenrate (rauschfreier Kanal) = **2 · B · log₂(V)** – mit B = Bandbreite (Hz), V = Anzahl diskreter Signalwerte.
+
+Q: Was besagt die Shannon-Formel?
+A: Maximale Datenrate (verrauschter Kanal) = **B · log₂(1 + S/N)** – mit B = Bandbreite (Hz), S/N = Signal-Rausch-Verhältnis (linear).
+
+Q: Was ist der Unterschied zwischen Nyquist- und Shannon-Grenze?
+A: **Nyquist**: gilt für rauschfreie Kanäle, berücksichtigt diskrete Signalwerte. **Shannon**: gilt für verrauschte Kanäle, berücksichtigt das Signal-Rausch-Verhältnis – gibt das theoretische Maximum an.
+
+Q: Was ist Fourier-Analyse im Kontext der Datenübertragung?
+A: Jedes periodische Signal lässt sich in eine Summe von Sinus- und Kosinuswellen zerlegen. Dies zeigt, wie viel **Bandbreite** ein Signal benötigt und wie es sich durch Filter verändert.

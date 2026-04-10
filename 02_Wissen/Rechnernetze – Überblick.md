@@ -76,3 +76,20 @@ Rechnernetze
 | **Peer-to-Peer (P2P)** | Dezentral, skalierbar, robuster |
 
 → Siehe auch: [[Netzwerktypen (PAN, LAN, MAN, WAN)]] | [[OSI- und TCP-IP-Modell]] | [[Netzwerkstandards]]
+
+## Lernkarten
+
+Q: Was ist ein Rechnernetz?
+A: Die Gesamtheit aller Einrichtungen, die Kommunikation ermöglichen: Übertragungswege, Übertragungseinrichtungen, Vermittlungseinrichtungen und Endgeräte.
+
+Q: Was ist der Unterschied zwischen Store-and-Forward und Cut-Through?
+A: **Store-and-Forward**: Paket vollständig empfangen → dann weiterleiten (sicher, langsam). **Cut-Through**: Sofort weiterleiten ohne zu warten (schnell, keine Fehlerprüfung).
+
+Q: Was ist der Unterschied zwischen Simplex, Halbduplex und Vollduplex?
+A: **Simplex**: Nur eine Richtung (z. B. Radio). **Halbduplex**: Abwechselnd (z. B. Walkie-Talkie). **Vollduplex**: Gleichzeitig in beide Richtungen (z. B. Telefon).
+
+Q: Ist das Internet verbindungsorientiert oder verbindungslos?
+A: **Verbindungslos** – IP überträgt jedes Paket einzeln ohne feste Verbindung. TCP macht die Übertragung zuverlässig.
+
+Q: Was ist der Unterschied zwischen Client-Server und Peer-to-Peer?
+A: **Client-Server**: Zentral, kontrollierbar, Single Point of Failure. **P2P**: Dezentral, skalierbar, kein zentraler Ausfall.

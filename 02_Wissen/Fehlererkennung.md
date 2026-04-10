@@ -27,3 +27,17 @@ Empfänger: (Daten + CRC) ÷ Generatorpolynom → Rest ≠ 0 → Fehler
 > **Merksatz:** Fehler passieren – wichtig ist, dass wir sie erkennen, bevor sie Schaden anrichten.
 
 → Siehe auch: [[Fehlerkorrektur]] | [[Framing]] | [[Sicherungsschicht]]
+
+## Lernkarten
+
+Q: Welche drei Methoden zur Fehlererkennung gibt es?
+A: **Paritätsbit** (einfach, erkennt Einzelbitfehler), **Prüfsumme/Checksum** (blockweise Addition, z. B. in IP/TCP), **CRC** (Cyclic Redundancy Check – mathematisch robust, erkennt viele Fehlerarten).
+
+Q: Wie funktioniert CRC?
+A: Daten werden als **binäres Polynom** behandelt und durch ein Generatorpolynom **Modulo-2-dividiert**. Der Rest (CRC) wird angehängt. Empfänger führt dieselbe Division durch – Rest ≠ 0 → Fehler.
+
+Q: Was erkennt CRC alles?
+A: Alle **Einzelbitfehler**, alle **Doppelfehler**, alle **ungeraden Bitfehler**, **Burstfehler** bis zur Länge des Generatorpolynoms.
+
+Q: Was ist der Unterschied zwischen Fehlererkennung und Fehlerkorrektur?
+A: **Fehlererkennung**: stellt fest, ob ein Frame fehlerhaft ist → Neuanforderung. **Fehlerkorrektur**: behebt den Fehler automatisch ohne erneuten Versand.

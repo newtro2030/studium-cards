@@ -29,3 +29,17 @@ Je höher die Frequenz:
 > **Merksatz:** Funkwellen reisen auf viele Arten – um die Erde, durch die Luft, zur Raumstation – je nach Frequenz und Technik.
 
 → Siehe auch: [[Übertragungsmedien]] | [[WLAN (IEEE 802.11)]] | [[Mobilfunk]]
+
+## Lernkarten
+
+Q: Welche drei Ausbreitungsarten gibt es für Funkwellen?
+A: **Bodenwellen** (entlang Erdoberfläche, niedrige Frequenzen), **Himmelswellen** (Reflektion an Ionosphäre, Kommunikation über Kontinente), **Sichtverbindung/LOS** (gerade Linie, WLAN, Mikrowellen).
+
+Q: Wie verhalten sich höhere Frequenzen im Vergleich zu niedrigeren?
+A: Höhere Frequenz → höhere mögliche Datenrate, kürzere Reichweite, geringere Wanddurchdringung. Niedrigere Frequenz → weite Ausbreitung, aber geringe Bandbreite.
+
+Q: In welchem Frequenzbereich arbeiten WLAN und Mobilfunk?
+A: **HF/VHF/UHF**: 3 MHz – 3 GHz (UKW, TV, Mobilfunk, WLAN). Für höhere 5G-Bänder und Satelliten: SHF/EHF (> 3 GHz).
+
+Q: Was bedeutet Line of Sight (LOS) bei der Funkübertragung?
+A: Sender und Empfänger müssen sich „sehen" – eine direkte, ungehinderte Sichtlinie ist erforderlich. Notwendig bei Mikrowellen, WLAN (5 GHz) und Satelliten.

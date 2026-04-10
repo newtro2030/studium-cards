@@ -32,3 +32,17 @@ Mobilfunknetze unterstützen nahtlosen Wechsel zwischen Zellen und Netzen (natio
 > **Merksatz:** Vom Koffertelefon zur Gigabit-Verbindung – Mobilfunknetze verbinden die Welt in Bewegung.
 
 → Siehe auch: [[Drahtlose Übertragung]] | [[PSTN]] | [[Netzwerktypen (PAN, LAN, MAN, WAN)]]
+
+## Lernkarten
+
+Q: Was sind die Mobilfunk-Generationen von 1G bis 5G?
+A: **1G**: Analog, Sprache. **2G**: Digital, Sprache + SMS (GSM). **3G**: Sprache + mobile Daten (UMTS). **4G**: Breitband-Internet, IP-basiert (LTE). **5G**: Extrem schnell, kurze Latenz (IoT, VR).
+
+Q: Was ist das Zellenkonzept im Mobilfunk?
+A: Die Welt wird in **Funkzellen** aufgeteilt, jede mit einer eigenen Basisstation (BTS). Beim Wechsel zwischen Zellen erfolgt ein **Handover**.
+
+Q: Welche vier Hauptkomponenten hat ein Mobilfunknetz?
+A: **BTS** (Basisstation), **MSC** (Mobile Switching Center – Vermittlung), **HLR** (Home Location Register – Nutzerdatenbank), **SIM-Karte** (Identifikation).
+
+Q: Warum können Mobilfunkfrequenzen mehrfach genutzt werden?
+A: Durch die **Zellenaufteilung** – Frequenzen werden in benachbarten Zellen wiederverwendet, wobei Interferenzen durch Abstand minimiert werden.

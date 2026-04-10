@@ -31,3 +31,17 @@ Layer 1 – Bitübertragung (Physical)
 > **Merksatz:** Die Sicherungsschicht organisiert Chaos – sie strukturiert, schützt und reguliert die direkte Verbindung zwischen zwei Geräten.
 
 → Siehe auch: [[Framing]] | [[Fehlererkennung]] | [[Fehlerkorrektur]] | [[Flusskontrolle]] | [[MAC-Sublayer]] | [[OSI- und TCP-IP-Modell]]
+
+## Lernkarten
+
+Q: Welche vier Hauptaufgaben hat die Sicherungsschicht?
+A: **Framing** (Bitstrom strukturieren), **Fehlererkennung/-korrektur**, **Flusskontrolle** (Empfänger nicht überfordern), **MAC** (Zugriff auf gemeinsames Medium regeln).
+
+Q: Zwischen welchen OSI-Schichten arbeitet die Sicherungsschicht?
+A: Zwischen **Layer 1** (Bitübertragung) und **Layer 3** (Vermittlung/Network). Sie ist selbst **Layer 2**.
+
+Q: Welche zwei Teilschichten hat Layer 2?
+A: **LLC** (Logical Link Control) – Flusskontrolle, Fehlererkennung. **MAC** (Medium Access Control) – Zugriff auf das physikalische Medium.
+
+Q: Welche MAC-Protokolle verwendet Ethernet bzw. WLAN?
+A: **Ethernet**: CSMA/CD (Kollisionserkennung). **WLAN**: CSMA/CA (Kollisionsvermeidung).

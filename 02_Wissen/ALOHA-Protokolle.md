@@ -43,3 +43,17 @@ ALOHA ist die theoretische Basis moderner Protokolle:
 > **Merksatz:** ALOHA sagt: Sende, wenn du willst – aber rechne mit Chaos.
 
 → Siehe auch: [[Kanalzuweisung]] | [[MAC-Sublayer]] | [[Ethernet (IEEE 802.3)]] | [[WLAN (IEEE 802.11)]]
+
+## Lernkarten
+
+Q: Was ist der maximale Durchsatz von Pure ALOHA?
+A: **≈ 18,4 %** (1/(2e)), erreicht bei G = 0,5. Formel: S = G · e^(−2G).
+
+Q: Was ist der maximale Durchsatz von Slotted ALOHA?
+A: **≈ 36,8 %** (1/e), erreicht bei G = 1. Formel: S = G · e^(−G). Fast doppelt so effizient wie Pure ALOHA.
+
+Q: Was ist der Unterschied zwischen Pure ALOHA und Slotted ALOHA?
+A: **Pure ALOHA**: Senden jederzeit möglich → Kollisionen wenn Pakete sich ganz oder teilweise überlappen. **Slotted ALOHA**: Senden nur zu Beginn eines Zeitslots → Pakete können sich nur vollständig oder gar nicht überlappen → weniger Kollisionen.
+
+Q: Welche modernen Protokolle basieren auf ALOHA-Prinzipien?
+A: **CSMA/CD** (Ethernet – hört Medium vor dem Senden ab) und **CSMA/CA** (WLAN – vermeidet Kollisionen durch Wartezeit).

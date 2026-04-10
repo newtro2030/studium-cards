@@ -37,3 +37,17 @@
 | Satellitennetz | große Abdeckung, hohe Latenz | Starlink, Inmarsat |
 
 → Siehe auch: [[Rechnernetze – Überblick]] | [[WLAN (IEEE 802.11)]] | [[Mobilfunk]]
+
+## Lernkarten
+
+Q: Welche vier Netzwerktypen gibt es nach Ausdehnung?
+A: **PAN** (~1 m, z. B. Bluetooth), **LAN** (Gebäude/Campus, z. B. Ethernet), **MAN** (Stadt), **WAN** (weltweite Verbindungen, z. B. Internet).
+
+Q: Was ist das Internet – ein WAN?
+A: Nein. Das Internet ist ein **Inter-Network** – eine Zusammenschaltung vieler verschiedener Netze (LAN, WAN, MAN etc.) über Router/Gateways.
+
+Q: Was ist ein VPN und welchen Nachteil hat es?
+A: Ein **Virtual Private Network** – virtuelles Netz über öffentliche Infrastruktur. Nachteil: Keine garantierte Leistung, da kein eigenes physisches Netz.
+
+Q: Was ist der Unterschied zwischen Broadcast- und Punkt-zu-Punkt-Netz?
+A: **Broadcast**: Ein Sender → alle Empfänger (z. B. klassisches Ethernet). **Punkt-zu-Punkt**: Verbindung genau zwischen 2 Knoten (z. B. WAN-Strecke).

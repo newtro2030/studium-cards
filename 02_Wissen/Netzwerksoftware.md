@@ -37,3 +37,14 @@ Weitere Eigenschaften:
 - Datenflusssteuerung
 
 → Siehe auch: [[OSI- und TCP-IP-Modell]] | [[Rechnernetze – Überblick]]
+
+## Lernkarten
+
+Q: Was ist der Unterschied zwischen einem Dienst und einem Protokoll?
+A: **Dienst**: Was eine Schicht der darüberliegenden anbietet (vertikal, im selben Gerät). **Protokoll**: Regeln zwischen gleichrangigen Schichten auf verschiedenen Geräten (horizontal).
+
+Q: Warum wird Netzwerksoftware in Schichten organisiert?
+A: Um Komplexität zu reduzieren: Jede Schicht erledigt spezifische Aufgaben, nutzt Dienste der darunter liegenden Schicht, und Änderungen in einer Schicht wirken sich nicht direkt auf andere aus.
+
+Q: Was ist der Unterschied zwischen verbindungsorientierten und verbindungslosen Diensten?
+A: **Verbindungsorientiert**: Aufbau → Nutzung → Abbau (z. B. TCP, Telefon). **Verbindungslos**: Jedes Paket separat, kein fester Pfad (z. B. IP, UDP).

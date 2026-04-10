@@ -56,7 +56,3 @@ A: Die Investition erwirtschaftet **genau die Mindestverzinsung**. Der verwendet
 Q: Nenne zwei Vorteile und zwei Nachteile der Kapitalwertmethode.
 A: **Vorteile:** Theoretisch fundiert (berücksichtigt Zeitwert des Geldes), eindeutiges Ergebnis ohne Mehrdeutigkeit.
 **Nachteile:** Abhängig vom gewählten Kalkulationszins, zukünftige Zahlungen müssen geschätzt werden.
-
-Q: Das ist ein Test
-A: **Vorteile:** Testantwort
-**Nachteile:** Nachteil Test

@@ -39,3 +39,17 @@ In Netzwerken mit **gemeinsam genutztem Medium** (Ethernet, WLAN) muss geregelt 
 > **Merksatz:** Der MAC-Sublayer entscheidet, wer im Netzwerk reden darf – fair, effizient und möglichst ohne Zusammenstöße.
 
 → Siehe auch: [[Ethernet (IEEE 802.3)]] | [[WLAN (IEEE 802.11)]] | [[Sicherungsschicht]] | [[Kanalzuweisung]]
+
+## Lernkarten
+
+Q: Was ist die Aufgabe des MAC-Sublayers?
+A: Regelt, **welche Station wann senden darf**, wenn mehrere Geräte ein gemeinsames Medium teilen – zur Kollisionsvermeidung oder -behandlung.
+
+Q: Wie funktioniert CSMA/CD?
+A: Lauschen → wenn frei senden → weiter lauschen → Kollision erkannt → **Jamming Signal** → zufällige Wartezeit (Backoff) → neuer Versuch. Nur für kabelgebundene Halbduplex-Netze.
+
+Q: Warum kann CSMA/CD nicht bei WLAN verwendet werden?
+A: Funkgeräte können **nicht gleichzeitig senden und empfangen** – Kollisionen sind daher nicht erkennbar. WLAN verwendet stattdessen CSMA/CA (Kollisionsvermeidung).
+
+Q: Was ist Token Passing?
+A: Ein **Token** (Steuerpaket) rotiert im Netz. Nur wer das Token hat, darf senden. Kollisionsfrei, aber bei Tokenverlust muss das Netz reagieren (z. B. Token Ring).

@@ -44,3 +44,17 @@ Praxisorientiertes Modell, de-facto Standard des Internets (aus ARPANET).
 > **Merksatz:** Das OSI-Modell erklärt, wie Netzwerke funktionieren *sollten* – TCP/IP zeigt, wie sie *wirklich* funktionieren.
 
 → Siehe auch: [[Netzwerksoftware]] | [[Sicherungsschicht]] | [[Ethernet (IEEE 802.3)]]
+
+## Lernkarten
+
+Q: Nenne die 7 Schichten des OSI-Modells (von oben nach unten).
+A: 7 Anwendung, 6 Darstellung, 5 Sitzung, 4 Transport, 3 Vermittlung, 2 Sicherung, 1 Bitübertragung. **Merkhilfe**: „Alle Deutschen Studenten Trinken Verschiedene Sorten Bier"
+
+Q: Welche 4 Schichten hat das TCP/IP-Modell?
+A: 4 **Anwendung** (HTTP, DNS, SMTP), 3 **Transport** (TCP, UDP), 2 **Internet** (IP, ICMP), 1 **Netzwerkzugriff** (Ethernet, WLAN, ARP).
+
+Q: Welche OSI-Schichten sind in der TCP/IP-Anwendungsschicht zusammengefasst?
+A: Die OSI-Schichten 5 (Sitzung), 6 (Darstellung) und 7 (Anwendung).
+
+Q: Was ist der Hauptunterschied zwischen OSI- und TCP/IP-Modell?
+A: OSI ist ein theoretisches Referenzmodell (7 Schichten, strikt modular). TCP/IP ist praxisorientiert (4 Schichten), de-facto Standard des Internets – aus dem ARPANET entstanden.

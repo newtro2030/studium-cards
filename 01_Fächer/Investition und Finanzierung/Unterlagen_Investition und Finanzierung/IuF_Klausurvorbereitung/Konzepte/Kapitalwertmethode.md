@@ -38,3 +38,21 @@ Wobei:
 - Der [[Interner Zinsfuß|interne Zinsfuß]] ist der Zinssatz, bei dem der Kapitalwert = 0 wird
 - Risikobetrachtung statt Wertbetrachtung: [[Dynamische Amortisationsrechnung]]
 - Statische Vereinfachung: [[Gewinnvergleichsrechnung]]
+
+## Lernkarten
+
+Q: Was ist die Kapitalwertmethode?
+A: Ein **dynamisches** Investitionsrechenverfahren, das den Barwert aller zukünftigen Ein- und Auszahlungen einer Investition ermittelt, abgezinst auf den Zeitpunkt $t_0$.
+
+Q: Wie lautet die Formel des Kapitalwerts?
+A: $$KW = \sum_{t=0}^{n} \frac{Z_t}{(1+i)^t} = -A_0 + \sum_{t=1}^{n} \frac{Z_t}{(1+i)^t}$$
+
+Q: Wann ist eine Investition nach der Kapitalwertmethode vorteilhaft?
+A: Bei einer **Einzelentscheidung**: wenn $KW > 0$ (die Investition erwirtschaftet mehr als die geforderte Mindestverzinsung). Bei einer **Auswahlentscheidung**: die Alternative mit dem höchsten positiven Kapitalwert wählen.
+
+Q: Was bedeutet ein Kapitalwert von genau 0?
+A: Die Investition erwirtschaftet **genau die Mindestverzinsung**. Der verwendete Zinssatz entspricht dann dem internen Zinsfuß.
+
+Q: Nenne zwei Vorteile und zwei Nachteile der Kapitalwertmethode.
+A: **Vorteile:** Theoretisch fundiert (berücksichtigt Zeitwert des Geldes), eindeutiges Ergebnis ohne Mehrdeutigkeit.
+**Nachteile:** Abhängig vom gewählten Kalkulationszins, zukünftige Zahlungen müssen geschätzt werden.

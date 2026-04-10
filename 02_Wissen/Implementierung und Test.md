@@ -1,5 +1,3 @@
-## Implementierung und Test (Implementation, Integration and Test / Programming in the Small)
-
 In der Implementierungs- und Testphase werden die im [[Softwareentwurf]] spezifizierten Module/Komponenten realisiert und validiert sowie schrittweise zum Gesamtsystem zusammengebaut.
 
 ### Aufgaben der Phase

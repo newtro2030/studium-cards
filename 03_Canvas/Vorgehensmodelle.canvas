@@ -14,7 +14,7 @@
 		{"id":"vm_title","type":"text","text":"# Vorgehensmodelle der Softwareentwicklung\n\nEvolution: von **unstrukturiert** (Code-and-Fix) über **sequenziell** (Wasserfall) zu **iterativ** (Scrum).\n\nGrundproblem: Softwarekrise 1968 → NATO-Konferenz → Geburt der Softwaretechnik","x":280,"y":-1080,"width":1000,"height":180},
 		{"id":"vm_concept","type":"file","file":"01_Fächer/Systementwicklung/Vorgehensmodell.md","x":900,"y":-780,"width":380,"height":200},
 		{"id":"vm_se","type":"file","file":"02_Wissen/Softwareentwicklung.md","x":280,"y":-780,"width":380,"height":200},
-		{"id":"vm_rup_file","type":"file","file":"Studium/02_Wissen/Rational Unified Process.md","x":1700,"y":-100,"width":600,"height":300},
+		{"id":"vm_rup_file","type":"file","file":"02_Wissen/Rational Unified Process.md","x":1700,"y":-100,"width":600,"height":300},
 		{"id":"vm_agile_text","type":"text","text":"**Agile Methoden**\nz.B. **Scrum**, Kanban, XP\n\n- Iterationen (Sprints ~2–4 Wochen)\n- Product Backlog\n- Daily Scrum\n- Sprint Review + Retrospektive\n- Selbstorganisierende Teams\n- Kundenfeedback jederzeit\n\n→ Leichtgewichtig: wenig Bürokratie, viel Flexibilität","x":2780,"y":-60,"width":660,"height":450,"color":"4"},
 		{"id":"vm_spiral_file","type":"file","file":"02_Wissen/Spiralmodell.md","x":920,"y":360,"width":600,"height":300}
 	],

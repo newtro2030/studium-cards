@@ -1,5 +1,3 @@
-# Statische Amortisationsrechnung
-
 #konzept #investitionsrechnung #statisch
 
 ## Definition

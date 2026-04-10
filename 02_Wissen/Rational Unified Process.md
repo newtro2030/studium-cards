@@ -1,5 +1,3 @@
-## Rational Unified Process (RUP)
-
 Inkrementelles Modell zur objektorientierten Softwareentwicklung (1999). Entwicklung durch IBM / Tochterunternehmen Rational. Steht im Zusammenhang mit der Modellierungssprache UML (Unified Modeling Language).
 
 ### Grundideen

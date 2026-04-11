@@ -28,7 +28,7 @@ Empfänger: (Daten + CRC) ÷ Generatorpolynom → Rest ≠ 0 → Fehler
 
 → Siehe auch: [[Fehlerkorrektur]] | [[Framing]] | [[Sicherungsschicht]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Welche drei Methoden zur Fehlererkennung gibt es?
 A: **Paritätsbit** (einfach, erkennt Einzelbitfehler), **Prüfsumme/Checksum** (blockweise Addition, z. B. in IP/TCP), **CRC** (Cyclic Redundancy Check – mathematisch robust, erkennt viele Fehlerarten).

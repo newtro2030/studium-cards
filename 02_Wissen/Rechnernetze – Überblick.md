@@ -77,7 +77,7 @@ Rechnernetze
 
 → Siehe auch: [[Netzwerktypen (PAN, LAN, MAN, WAN)]] | [[OSI- und TCP-IP-Modell]] | [[Netzwerkstandards]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Was ist ein Rechnernetz?
 A: Die Gesamtheit aller Einrichtungen, die Kommunikation ermöglichen: Übertragungswege, Übertragungseinrichtungen, Vermittlungseinrichtungen und Endgeräte.

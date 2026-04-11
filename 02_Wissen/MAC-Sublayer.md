@@ -40,7 +40,7 @@ In Netzwerken mit **gemeinsam genutztem Medium** (Ethernet, WLAN) muss geregelt 
 
 → Siehe auch: [[Ethernet (IEEE 802.3)]] | [[WLAN (IEEE 802.11)]] | [[Sicherungsschicht]] | [[Kanalzuweisung]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Was ist die Aufgabe des MAC-Sublayers?
 A: Regelt, **welche Station wann senden darf**, wenn mehrere Geräte ein gemeinsames Medium teilen – zur Kollisionsvermeidung oder -behandlung.

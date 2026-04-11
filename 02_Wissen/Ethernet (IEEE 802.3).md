@@ -43,7 +43,7 @@ Moderne Switches **trennen Kollisionsdomänen** → kein CSMA/CD mehr nötig →
 
 → Siehe auch: [[MAC-Sublayer]] | [[Sicherungsschicht]] | [[Übertragungsmedien]] | [[OSI- und TCP-IP-Modell]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Wie ist ein Ethernet-Frame aufgebaut?
 A: Präambel (7B) → SFD (1B) → Zieladresse (6B) → Quelladresse (6B) → Typ/Länge (2B) → Nutzdaten (46–1500B) → CRC (4B). Mindestgröße: **64 Byte**.

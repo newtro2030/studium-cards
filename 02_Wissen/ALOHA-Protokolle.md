@@ -44,7 +44,7 @@ ALOHA ist die theoretische Basis moderner Protokolle:
 
 → Siehe auch: [[Kanalzuweisung]] | [[MAC-Sublayer]] | [[Ethernet (IEEE 802.3)]] | [[WLAN (IEEE 802.11)]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Was ist der maximale Durchsatz von Pure ALOHA?
 A: **≈ 18,4 %** (1/(2e)), erreicht bei G = 0,5. Formel: S = G · e^(−2G).

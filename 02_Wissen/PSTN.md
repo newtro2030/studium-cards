@@ -34,7 +34,7 @@ Das **öffentliche Vermittlungstelefonnetz** – ursprünglich analog, heute gr�
 
 → Siehe auch: [[Übertragungsmedien]] | [[Mobilfunk]] | [[Kabelfernsehnetze]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Was ist der Local Loop im PSTN?
 A: Die Verbindung vom **Hausanschluss bis zur nächsten Vermittlungsstelle** – meist aus Kupferdraht (Twisted Pair). Kann Analog- oder DSL-Signale übertragen.

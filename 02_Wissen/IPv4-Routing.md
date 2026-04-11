@@ -32,7 +32,7 @@ Aus einer Cisco-Konfig lässt sich die Umgebung ableiten:
 
 → Siehe auch: [[IPv4-Routing]] | [[OSI- und TCP-IP-Modell]] | [[Dijkstra-Algorithmus]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Was ist eine Routingtabelle und welche drei Kern-Informationen enthält ein Eintrag?
 A: Eine Tabelle, die dem Router sagt, welcher Pfad zu welchem Netz führt. Kern-Infos: **Zielnetz** (inkl. Maske), **Metrik** (Kosten) und **Next Hop** (nächste Station).

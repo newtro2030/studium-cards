@@ -35,7 +35,7 @@ Anzahl der Bits, die sich zwei gültige Codewörter unterscheiden.
 
 → Siehe auch: [[Fehlererkennung]] | [[Flusskontrolle]] | [[Sicherungsschicht]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Was ist der Hamming-Abstand?
 A: Die **Anzahl der Bits**, die sich zwei gültige Codewörter unterscheiden. Maß für die Fehlererkennungs- und Korrekturfähigkeit eines Codes.

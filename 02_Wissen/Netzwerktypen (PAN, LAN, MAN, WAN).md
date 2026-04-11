@@ -38,7 +38,7 @@
 
 → Siehe auch: [[Rechnernetze – Überblick]] | [[WLAN (IEEE 802.11)]] | [[Mobilfunk]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Welche vier Netzwerktypen gibt es nach Ausdehnung?
 A: **PAN** (~1 m, z. B. Bluetooth), **LAN** (Gebäude/Campus, z. B. Ethernet), **MAN** (Stadt), **WAN** (weltweite Verbindungen, z. B. Internet).

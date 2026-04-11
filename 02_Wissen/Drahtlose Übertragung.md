@@ -30,7 +30,7 @@ Je höher die Frequenz:
 
 → Siehe auch: [[Übertragungsmedien]] | [[WLAN (IEEE 802.11)]] | [[Mobilfunk]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Welche drei Ausbreitungsarten gibt es für Funkwellen?
 A: **Bodenwellen** (entlang Erdoberfläche, niedrige Frequenzen), **Himmelswellen** (Reflektion an Ionosphäre, Kommunikation über Kontinente), **Sichtverbindung/LOS** (gerade Linie, WLAN, Mikrowellen).

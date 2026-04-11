@@ -25,7 +25,7 @@
 
 → Siehe auch: [[Physikalische Datenübertragung]] | [[Drahtlose Übertragung]] | [[Ethernet (IEEE 802.3)]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Was sind die drei geführten Übertragungsmedien?
 A: **Twisted Pair** (verdrillt, Kupfer, günstig, LAN), **Koaxialkabel** (Innenleiter + Abschirmung, robust), **Glasfaser** (Lichtimpulse, sehr hohe Bandbreite, immun gegen EM-Störungen).

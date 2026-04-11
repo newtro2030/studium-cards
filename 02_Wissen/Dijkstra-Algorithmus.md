@@ -26,7 +26,7 @@ Der Dijkstra-Algorithmus wird in **Link-State-Routing-Protokollen** (wie OSPF) v
 
 → Siehe auch: [[IPv4-Routing]] | [[OSI- und TCP-IP-Modell]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Was ist das Ziel des Dijkstra-Algorithmus im Kontext von Rechnernetzen?
 A: Die Berechnung der Pfade mit den **geringsten Kosten** von einem Router zu allen anderen Routern im Netzwerk (Berechnung der Routingtabelle).

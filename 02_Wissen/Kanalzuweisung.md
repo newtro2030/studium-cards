@@ -36,7 +36,7 @@ Kanalnutzung wird **flexibel** angepasst je nach aktuellem Bedarf.
 
 → Siehe auch: [[ALOHA-Protokolle]] | [[MAC-Sublayer]] | [[Ethernet (IEEE 802.3)]] | [[WLAN (IEEE 802.11)]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Was ist der Unterschied zwischen statischer und dynamischer Kanalzuweisung?
 A: **Statisch**: Feste Zuweisung (FDM, TDM) – einfach, aber ineffizient bei ungleicher Nutzung. **Dynamisch**: Flexibel je nach Bedarf – effizienter, aber komplexer und kollisionsgefährdet.

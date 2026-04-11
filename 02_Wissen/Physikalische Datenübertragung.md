@@ -51,7 +51,7 @@ Wird genutzt, um ein Übertragungsmedium für mehrere Teilnehmer gleichzeitig nu
 
 → Siehe auch: [[Übertragungsmedien]] | [[Drahtlose Übertragung]] | [[OSI- und TCP-IP-Modell]] | [[Kanalzuweisung]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Was besagt die Nyquist-Formel?
 A: Maximale Datenrate (rauschfreier Kanal) = **2 · B · log₂(V)** – mit B = Bandbreite (Hz), V = Anzahl diskreter Signalwerte.

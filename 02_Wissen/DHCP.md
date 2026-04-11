@@ -27,7 +27,7 @@ Die IP wird nicht dauerhaft vergeben, sondern nur für eine bestimmte Zeit (**Le
 
 → Siehe auch: [[OSI- und TCP-IP-Modell]] | [[IPv4-Routing]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Wofür steht DHCP und was ist seine Hauptaufgabe?
 A: **Dynamic Host Configuration Protocol**. Automatische Zuweisung von IP-Adressen und Konfigurationsdaten (Gateway, DNS) an Netzwerkgeräte.

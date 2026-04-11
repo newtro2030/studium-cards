@@ -53,7 +53,7 @@ Funkgeräte können nicht gleichzeitig senden und hören → Kollisionen **nicht
 
 → Siehe auch: [[MAC-Sublayer]] | [[Drahtlose Übertragung]] | [[Ethernet (IEEE 802.3)]] | [[Kanalzuweisung]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Warum verwendet WLAN CSMA/CA statt CSMA/CD?
 A: Funkgeräte können nicht gleichzeitig senden und empfangen → Kollisionen sind nicht erkennbar. Deshalb wird **Kollisionsvermeidung (CA)** statt Kollisionserkennung (CD) eingesetzt.

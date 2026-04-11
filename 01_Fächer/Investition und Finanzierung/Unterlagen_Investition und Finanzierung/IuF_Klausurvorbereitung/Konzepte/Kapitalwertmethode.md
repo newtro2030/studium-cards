@@ -39,7 +39,7 @@ Wobei:
 - Risikobetrachtung statt Wertbetrachtung: [[Dynamische Amortisationsrechnung]]
 - Statische Vereinfachung: [[Gewinnvergleichsrechnung]]
 
-## Lernkarten
+## Lernkarten #BWL
 
 Q: Was ist die Kapitalwertmethode?
 A: Ein **dynamisches** Investitionsrechenverfahren, das den Barwert aller zukünftigen Ein- und Auszahlungen einer Investition ermittelt, abgezinst auf den Zeitpunkt $t_0$.

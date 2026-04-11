@@ -29,7 +29,7 @@ Datenbankeinträge im DNS. Wichtige Typen:
 
 → Siehe auch: [[OSI- und TCP-IP-Modell]] | [[Netzwerkstandards]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Nenne 4 Typen von Resource Records (RR) im DNS und ihren Zweck.
 A: 1. **A**: IPv4-Adresse zu Name. 2. **MX**: Mailserver-Zuweisung. 3. **NS**: Verantwortlicher Nameserver. 4. **CNAME**: Alias für einen anderen Namen.

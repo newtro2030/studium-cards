@@ -33,7 +33,7 @@ Mobilfunknetze unterstützen nahtlosen Wechsel zwischen Zellen und Netzen (natio
 
 → Siehe auch: [[Drahtlose Übertragung]] | [[PSTN]] | [[Netzwerktypen (PAN, LAN, MAN, WAN)]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Was sind die Mobilfunk-Generationen von 1G bis 5G?
 A: **1G**: Analog, Sprache. **2G**: Digital, Sprache + SMS (GSM). **3G**: Sprache + mobile Daten (UMTS). **4G**: Breitband-Internet, IP-basiert (LTE). **5G**: Extrem schnell, kurze Latenz (IoT, VR).

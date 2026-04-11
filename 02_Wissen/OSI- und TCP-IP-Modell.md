@@ -45,7 +45,7 @@ Praxisorientiertes Modell, de-facto Standard des Internets (aus ARPANET).
 
 → Siehe auch: [[Netzwerksoftware]] | [[Sicherungsschicht]] | [[Ethernet (IEEE 802.3)]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Nenne die 7 Schichten des OSI-Modells (von oben nach unten).
 A: 7 Anwendung, 6 Darstellung, 5 Sitzung, 4 Transport, 3 Vermittlung, 2 Sicherung, 1 Bitübertragung. **Merkhilfe**: „Alle Deutschen Studenten Trinken Verschiedene Sorten Bier"

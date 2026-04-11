@@ -28,7 +28,7 @@ Ohne Framing: Empfänger weiß nicht, wo ein Paket beginnt/endet oder ob es korr
 
 → Siehe auch: [[Sicherungsschicht]] | [[Fehlererkennung]] | [[Ethernet (IEEE 802.3)]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Wozu dient Framing?
 A: Den kontinuierlichen **Bitstrom** der physikalischen Schicht in logisch erkennbare Einheiten (**Frames**) zu zerlegen, damit der Empfänger Anfang, Ende und Korrektheit eines Pakets erkennen kann.

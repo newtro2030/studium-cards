@@ -38,7 +38,7 @@ Weitere Eigenschaften:
 
 → Siehe auch: [[OSI- und TCP-IP-Modell]] | [[Rechnernetze – Überblick]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Was ist der Unterschied zwischen einem Dienst und einem Protokoll?
 A: **Dienst**: Was eine Schicht der darüberliegenden anbietet (vertikal, im selben Gerät). **Protokoll**: Regeln zwischen gleichrangigen Schichten auf verschiedenen Geräten (horizontal).

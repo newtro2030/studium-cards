@@ -34,7 +34,7 @@ Headend → Glasfaser → Fiber Nodes → Koaxialkabel → Haushalt
 
 → Siehe auch: [[Übertragungsmedien]] | [[PSTN]] | [[Netzwerktypen (PAN, LAN, MAN, WAN)]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Was bedeutet HFC-Architektur?
 A: **Hybrid Fiber Coax** – Glasfaser im Backbone (schnell, störarm) und Koaxialkabel im letzten Abschnitt zum Haushalt.

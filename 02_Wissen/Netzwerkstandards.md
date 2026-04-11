@@ -30,7 +30,7 @@ Sie ermöglichen Austauschbarkeit, Herstellerunabhängigkeit und weltweite Skali
 
 → Siehe auch: [[OSI- und TCP-IP-Modell]] | [[Rechnernetze – Überblick]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Welche Organisation ist für Ethernet und WLAN-Standards zuständig?
 A: **IEEE** (Institute of Electrical and Electronics Engineers) – Ethernet (802.3), WLAN (802.11), Bluetooth (802.15).

@@ -39,7 +39,7 @@ Mehrere Frames **gleichzeitig im Umlauf** halten, ohne auf jedes ACK zu warten.
 
 → Siehe auch: [[Sicherungsschicht]] | [[Fehlerkorrektur]] | [[MAC-Sublayer]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Wozu dient Flusskontrolle?
 A: Verhindert, dass der **Sender schneller sendet**, als der Empfänger verarbeiten/puffern kann → sonst Pufferüberlauf und Datenverlust.

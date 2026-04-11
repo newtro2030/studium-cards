@@ -32,7 +32,7 @@ Layer 1 – Bitübertragung (Physical)
 
 → Siehe auch: [[Framing]] | [[Fehlererkennung]] | [[Fehlerkorrektur]] | [[Flusskontrolle]] | [[MAC-Sublayer]] | [[OSI- und TCP-IP-Modell]]
 
-## Lernkarten
+## Lernkarten #Rechnernetze
 
 Q: Welche vier Hauptaufgaben hat die Sicherungsschicht?
 A: **Framing** (Bitstrom strukturieren), **Fehlererkennung/-korrektur**, **Flusskontrolle** (Empfänger nicht überfordern), **MAC** (Zugriff auf gemeinsames Medium regeln).

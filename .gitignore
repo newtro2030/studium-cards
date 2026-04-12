@@ -8,3 +8,6 @@
 *.pptx
 *.docx
 *.xlsx
+
+# Ordner ausschließen
+01_Fächer/

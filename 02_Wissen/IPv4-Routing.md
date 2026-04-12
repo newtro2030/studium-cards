@@ -1,5 +1,3 @@
-# IPv4-Routing
-
 ### Grundlagen der Routingtabelle
 
 Ein Router entscheidet anhand seiner **Routingtabelle**, wohin ein Paket weitergeleitet wird. Jede Zeile enthält:

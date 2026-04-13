@@ -35,7 +35,8 @@ Finanz- und Bilanzmanagement
 ├── [[Beteiligungsbericht]]
 ├── [[Billigkeitsmaßnahmen]]
 ├── [[Haushaltssicherung]]
-└── [[Rechtsaufsicht]]
+├── [[Rechtsaufsicht]]
+└── [[Gemeinderat – Finanzielle Befugnisse]]
 ```
 
 ### Grundprinzip: Intergenerative Gerechtigkeit

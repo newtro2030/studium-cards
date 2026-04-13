@@ -89,7 +89,7 @@ Bestandteile des doppischen Jahresabschlusses:
 
 > **Merksatz:** Die Doppik zeigt nicht nur den Kontostand, sondern auch den Wert aller Vermögenswerte und Schulden – wie eine vollständige Unternehmensbilanz für die Gemeinde.
 
-→ Siehe auch: [[Kameralistik]] | [[Haushaltsausgleich]] | [[Jahresabschluss und Rechnungsprüfung]] | [[Finanz- und Bilanzmanagement – Überblick]]
+→ Siehe auch: [[Haushalt]] | [[Kameralistik]] | [[Haushaltsausgleich]] | [[Jahresabschluss und Rechnungsprüfung]] | [[Finanz- und Bilanzmanagement – Überblick]]
 
 ## Lernkarten #FinanzBilanzmanagement
 

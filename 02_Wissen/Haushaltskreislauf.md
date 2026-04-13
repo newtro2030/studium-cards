@@ -22,6 +22,9 @@ Planungsphase → Bewirtschaftungsphase → Rechnungslegungsphase
 - **Gemeinderat**: Berät und beschließt den Haushalt (bis 31.12. des Vorjahres)
 - **Rechtsaufsichtsbehörde**: Genehmigt genehmigungspflichtige Teile (z. B. Kreditaufnahmen)
 
+**Der Weg zum Erlass (3 Schritte):**
+Siehe Detailseite: [[Haushaltssatzung]] (Beschluss → Vorlage → Bekanntmachung)
+
 **Instrumente der Planung:**
 - Mittelfristige Finanzplanung (Finanzplanungszeitraum)
 - Investitionsprogramm

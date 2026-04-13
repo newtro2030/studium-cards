@@ -1,5 +1,3 @@
-## Betrieb, Unternehmen, Konzern
-
 Wesentliche organisatorische Begriffe des Arbeitsrechts, die für verschiedene Normen (Kündigungsschutz, Betriebsverfassung, Betriebsübergang) maßgeblich sind.
 
 ### Betrieb

@@ -1,5 +1,3 @@
-# Wichtige Begriffe: Investition und Finanzierung
-
 ## 1. Abschreibung
 Erfassung des planmäßigen oder außerplanmäßigen Wertverlusts von Anlage- oder Umlaufvermögen über die Nutzungsdauer.
 - **Ursachen:** Technischer/zeitlicher Verschleiß, wirtschaftliche Veralterung, rechtliche Gründe.

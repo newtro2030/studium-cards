@@ -14,6 +14,9 @@ Der Haushalt besteht im Kern aus:
 - **Finanzwirtschaftliche Funktion**: Sicherstellung der Liquidität und des Ausgleichs.
 - **Administrative Funktion**: Ermächtigung für die Verwaltung, Ausgaben zu tätigen.
 
+### Einnahmearten
+Im Haushalt wird zwischen verschiedenen Einnahmen unterschieden. Ein wichtiger Punkt sind die **öffentlich-rechtlichen Entgelte**, die im Wesentlichen **Gebühren** (z. B. für Abwasser oder Friedhofsnutzung) darstellen.
+
 ### Wichtige Prinzipien
 
 - **Haushaltswahrheit und -klarheit**: Ansätze müssen realistisch sein.

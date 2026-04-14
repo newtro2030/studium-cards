@@ -27,9 +27,12 @@ Ordentliche Erträge     (Konten 40–49)
 | Ertragsarten | Aufwandsarten |
 |---|---|
 | Steuern, Zuweisungen | Personalaufwendungen |
-| Gebühren, Beiträge | Sach-/Dienstleistungen |
+| **Gebühren**, Beiträge | Sach-/Dienstleistungen |
 | Kostenerstattungen | Abschreibungen |
 | Zinserträge | Zinsen, Transferaufwendungen |
+
+> [!NOTE]
+> **Öffentlich-rechtliche Entgelte** sind im kommunalen Bereich primär **Gebühren** (z. B. Abfall, Abwasser). Sie werden für tatsächlich in Anspruch genommene Leistungen erhoben.
 
 ### 2. Finanzrechnung
 
@@ -40,6 +43,11 @@ Drei Stufen der Finanzrechnung:
 | 1 | **Verwaltungstätigkeit** | KK 6 + 7 |
 | 2 | **Investitionstätigkeit** | KK 68 + 78 |
 | 3 | **Finanzierungstätigkeit** | KK 69 + 79 |
+
+#### Cashflow (Einzahlungen ./. Auszahlungen)
+Der Cashflow beschreibt die **Selbstfinanzierungskraft** der Kommune.
+- **Bedeutung**: Wie viel Geld wird operativ erwirtschaftet, um es wieder investieren zu können?
+- **Zielwert**: Der Cashflow muss **mindestens so groß wie die Tilgung** von Krediten sein, um die finanzielle Leistungsfähigkeit zu erhalten.
 
 ### 3. Bilanz (Vermögensrechnung)
 
@@ -65,6 +73,15 @@ Drei Stufen der Finanzrechnung:
 ⚠️ **Nicht durch Eigenkapital gedeckter Fehlbetrag** erscheint auf der **Aktivseite** der Bilanz → zeigt Überschuldung an.
 
 ⚠️ **Sonderposten** werden parallel zu den geförderten Anlagen über die Nutzungsdauer aufgelöst → kompensiert Abschreibungsaufwand.
+
+### Bewertung nach Thüringer Gesetzeslage (ThürGemHVD)
+
+| Thema | Regelung | Paragraph |
+|---|---|---|
+| **Anschaffungskosten** | Anschaffungspreis + Anschaffungsnebenkosten ./. Preisminderungen. | § 38 ThürGemHVD |
+| **Abschreibung (AfA)** | Planmäßige Verteilung der AK/HK auf die Nutzungsdauer. | § 41 ThürGemHVD |
+| **Methodik** | In Thüringen ist die **lineare Abschreibung** der Regelfall. | § 41 Abs. 2 |
+| **Beginn** | Im Monat der Anschaffung/Herstellung (pro rata temporis). | § 41 Abs. 4 |
 
 ### Kosten- und Leistungsrechnung (KLR)
 

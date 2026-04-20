@@ -66,6 +66,14 @@
       "label": "Technologische Basis"
     },
     {
+      "id": "edge_puffer_hierarchie",
+      "fromNode": "puffer_node",
+      "fromSide": "right",
+      "toNode": "hierarchie_node",
+      "toSide": "left",
+      "label": "Detailansicht Puffer"
+    },
+    {
       "id": "edge_cpu_cache",
       "fromNode": "cpu_node",
       "fromSide": "right",

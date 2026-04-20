@@ -39,6 +39,22 @@ Finanz- und Bilanzmanagement
 └── [[Gemeinderat – Finanzielle Befugnisse]]
 ```
 
+
+Finanz- und Bilanzmanagement
+├── [[Kameralistik]]
+├── [[Doppik und NKF]]
+│   ├── Ergebnisrechnung
+│   ├── Finanzrechnung
+│   └── Bilanz (Vermögensrechnung)
+├── [[Haushaltsausgleich]]
+├── [[Haushaltskreislauf]]
+├── [[Jahresabschluss und Rechnungsprüfung]]
+├── [[Beteiligungsbericht]]
+├── [[Billigkeitsmaßnahmen]]
+├── [[Haushaltssicherung (Kommunalebene)]]
+├── [[Rechtsaufsicht]]
+└── [[Gemeinderat – Finanzielle Befugnisse]]
+
 ### Grundprinzip: Intergenerative Gerechtigkeit
 
 > Die heutige Generation darf ihre Schulden **nicht auf künftige Generationen** überwälzen. Jede Generation soll die von ihr verursachten Kosten selbst tragen (Ressourcenverbrauchskonzept der Doppik).

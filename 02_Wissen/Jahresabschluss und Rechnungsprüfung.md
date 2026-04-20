@@ -32,6 +32,7 @@ Inhalt: Nachweis der Ist-Einnahmen und -Ausgaben des Verwaltungs- und Vermögens
 - Das RPA ist **unabhängig** und **weisungsfrei**
 - Der **Bürgermeister** darf dem RPA **keine Prüfungsaufträge erteilen** – nur der **Gemeinderat** ist zuständig
 - Damit ist die Unabhängigkeit von der Verwaltung sichergestellt
+- Häufig als Stabstelle organisiert
 
 **Prüfungsaufgaben des RPA:**
 - Prüfung der Jahresrechnung / des Jahresabschlusses

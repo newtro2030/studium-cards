@@ -38,7 +38,7 @@ Zwangsvollstreckung gegen Kommunen: **§122 ThürKO** – bedarf der **Zulassung
 
 > **Merksatz:** Kameralistik = Ausgleich durch Zuführung; Doppik = Ausgleich durch Ertragskraft. Keine Gemeinde kann Insolvenz anmelden – die Rechtsaufsicht übernimmt die Kontrolle.
 
-→ Siehe auch: [[Kameralistik]] | [[Doppik und NKF]] | [[Haushaltssicherung]] | [[Rechtsaufsicht]]
+→ Siehe auch: [[Kameralistik]] | [[Doppik und NKF]] | [[Haushaltssicherung (Kommunalebene)]] | [[Rechtsaufsicht]]
 
 ## Lernkarten #FinanzBilanzmanagement
 

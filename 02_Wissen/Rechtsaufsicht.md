@@ -60,7 +60,7 @@
 
 > **Merksatz:** Die Rechtsaufsicht ist kein Bevormunder, sondern Berater – sie greift nur ein, wenn Gesetzmäßigkeit auf dem Spiel steht. Der Beauftragte ist die letzte Konsequenz.
 
-→ Siehe auch: [[Haushaltssicherung]] | [[Haushaltsausgleich]] | [[Jahresabschluss und Rechnungsprüfung]] | [[Finanz- und Bilanzmanagement – Überblick]]
+→ Siehe auch: [[Haushaltssicherung (Kommunalebene)]] | [[Haushaltsausgleich]] | [[Jahresabschluss und Rechnungsprüfung]] | [[Finanz- und Bilanzmanagement – Überblick]]
 
 ## Lernkarten #FinanzBilanzmanagement
 

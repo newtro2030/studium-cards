@@ -1,5 +1,3 @@
-## Rechtsquellen des Arbeitsrechts
-
 ### Normenhierarchie (Wichtig! Klausurrelevant)
 
 ```

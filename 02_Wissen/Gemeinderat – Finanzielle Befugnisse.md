@@ -100,7 +100,7 @@ Auch das **Haushaltssicherungskonzept** (§53a ThürKO) wird vom **Gemeinderat**
 
 > **Merksatz:** Der Gemeinderat hält die Haushaltszügel. Der BM führt nur aus, was der GR beschlossen hat. Ohne Ermächtigung im Haushaltsplan – kein Geld.
 
-→ Siehe auch: [[Haushaltsausgleich]] | [[Haushaltskreislauf]] | [[Haushaltssicherung]] | [[Jahresabschluss und Rechnungsprüfung]] | [[Rechtsaufsicht]] | [[Kameralistik]] | [[Doppik und NKF]]
+→ Siehe auch: [[Haushaltsausgleich]] | [[Haushaltskreislauf]] | [[Haushaltssicherung (Kommunalebene)]] | [[Jahresabschluss und Rechnungsprüfung]] | [[Rechtsaufsicht]] | [[Kameralistik]] | [[Doppik und NKF]]
 
 ## Lernkarten #FinanzBilanzmanagement
 

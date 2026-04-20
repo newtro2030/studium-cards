@@ -52,7 +52,7 @@ Entscheidung in **nichtöffentlicher Sitzung** (Datenschutz!).
 
 > **Merksatz:** Stundung = später zahlen. Niederschlagung = vorerst nicht vollstrecken, aber Forderung lebt. Erlass = endgültig weg. Nur der Erlass löscht die Schuld.
 
-→ Siehe auch: [[Haushaltsausgleich]] | [[Haushaltssicherung]] | [[Rechtsaufsicht]]
+→ Siehe auch: [[Haushaltsausgleich]] | [[Haushaltssicherung (Kommunalebene)]] | [[Rechtsaufsicht]]
 
 ## Lernkarten #FinanzBilanzmanagement
 

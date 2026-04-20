@@ -34,7 +34,7 @@ Der Bericht gibt Auskunft über:
 
 > **Merksatz:** Der Beteiligungsbericht macht sichtbar, was die Gemeinde außerhalb ihres Kernhaushalts besitzt und verantwortet – fällig jedes Jahr bis 30. September.
 
-→ Siehe auch: [[Haushaltssicherung]] | [[Jahresabschluss und Rechnungsprüfung]] | [[Finanz- und Bilanzmanagement – Überblick]]
+→ Siehe auch: [[Haushaltssicherung (Kommunalebene)]] | [[Jahresabschluss und Rechnungsprüfung]] | [[Finanz- und Bilanzmanagement – Überblick]]
 
 ## Lernkarten #FinanzBilanzmanagement
 

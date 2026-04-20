@@ -1,11 +1,9 @@
-.obsidian/
-.claude/
-.trash/
-.DS_Store
-*.pdf
-*.pptx
-*.docx
-*.xlsx
+# Alle Dateien und Ordner im Hauptverzeichnis ignorieren
+/*
 
-# Ordner ausschließen
-01_Fächer/
+# Diese spezifischen Ordner explizit erlauben (inklusive deren Inhalt)
+!/02_Wissen/
+!/03_Canvas/
+
+# Die .gitignore Datei selbst erlauben, damit diese Regel geteilt wird
+!/.gitignore

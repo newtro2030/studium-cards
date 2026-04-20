@@ -1,109 +1,17 @@
 {
-  "nodes": [
-    {
-      "id": "cpu_node",
-      "type": "file",
-      "file": "02_Wissen/CPU_Aufbau.md",
-      "x": -600,
-      "y": -200,
-      "width": 450,
-      "height": 400
-    },
-    {
-      "id": "cache_node",
-      "type": "file",
-      "file": "02_Wissen/Cache.md",
-      "x": 0,
-      "y": -200,
-      "width": 450,
-      "height": 400
-    },
-    {
-      "id": "sram_dram_node",
-      "type": "file",
-      "file": "02_Wissen/Speicherarten_SRAM_DRAM.md",
-      "x": 600,
-      "y": -200,
-      "width": 450,
-      "height": 400
-    },
-    {
-      "id": "bausteine_node",
-      "type": "file",
-      "file": "02_Wissen/Transistor_und_Kondensator.md",
-      "x": 1200,
-      "y": -200,
-      "width": 450,
-      "height": 400
-    },
-    {
-      "id": "hierarchie_node",
-      "type": "file",
-      "file": "02_Wissen/Speicherhierarchie.md",
-      "x": 0,
-      "y": 300,
-      "width": 600,
-      "height": 450
-    },
-    {
-      "id": "group_hardware",
-      "type": "group",
-      "x": -650,
-      "y": -280,
-      "width": 2350,
-      "height": 550,
-      "label": "Verarbeitung & Flüchtiger Speicher",
-      "color": "4"
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge_sram_bausteine",
-      "fromNode": "sram_dram_node",
-      "fromSide": "right",
-      "toNode": "bausteine_node",
-      "toSide": "left",
-      "label": "Technologische Basis"
-    },
-    {
-      "id": "edge_puffer_hierarchie",
-      "fromNode": "puffer_node",
-      "fromSide": "right",
-      "toNode": "hierarchie_node",
-      "toSide": "left",
-      "label": "Detailansicht Puffer"
-    },
-    {
-      "id": "edge_cpu_cache",
-      "fromNode": "cpu_node",
-      "fromSide": "right",
-      "toNode": "cache_node",
-      "toSide": "left",
-      "label": "Verlangt Daten"
-    },
-    {
-      "id": "edge_cache_sram",
-      "fromNode": "cache_node",
-      "fromSide": "right",
-      "toNode": "sram_dram_node",
-      "toSide": "left",
-      "label": "Basiert auf SRAM"
-    },
-    {
-      "id": "edge_cache_hierarchie",
-      "fromNode": "cache_node",
-      "fromSide": "bottom",
-      "toNode": "hierarchie_node",
-      "toSide": "top",
-      "label": "Teil der Hierarchie"
-    },
-    {
-      "id": "edge_cpu_hierarchie",
-      "fromNode": "cpu_node",
-      "fromSide": "bottom",
-      "toNode": "hierarchie_node",
-      "toSide": "left",
-      "label": "Register (Spitze)"
-    }
-  ]
+	"nodes":[
+		{"id":"group_hardware","type":"group","x":-880,"y":-280,"width":3040,"height":550,"color":"4","label":"Verarbeitung & Flüchtiger Speicher"},
+		{"id":"bausteine_node","type":"file","file":"02_Wissen/Transistor_und_Kondensator.md","x":1640,"y":-200,"width":450,"height":400},
+		{"id":"sram_dram_node","type":"file","file":"02_Wissen/Speicherarten_SRAM_DRAM.md","x":840,"y":-200,"width":450,"height":400},
+		{"id":"cache_node","type":"file","file":"02_Wissen/Cache.md","x":0,"y":-200,"width":450,"height":400},
+		{"id":"cpu_node","type":"file","file":"02_Wissen/CPU_Aufbau.md","x":-840,"y":-200,"width":450,"height":400},
+		{"id":"hierarchie_node","type":"file","file":"02_Wissen/Speicherhierarchie.md","x":-75,"y":520,"width":600,"height":450}
+	],
+	"edges":[
+		{"id":"edge_sram_bausteine","fromNode":"sram_dram_node","fromSide":"right","toNode":"bausteine_node","toSide":"left","label":"Technologische Basis"},
+		{"id":"edge_cpu_cache","fromNode":"cpu_node","fromSide":"right","toNode":"cache_node","toSide":"left","label":"Verlangt Daten"},
+		{"id":"edge_cache_sram","fromNode":"cache_node","fromSide":"right","toNode":"sram_dram_node","toSide":"left","label":"Basiert auf SRAM"},
+		{"id":"edge_cache_hierarchie","fromNode":"cache_node","fromSide":"bottom","toNode":"hierarchie_node","toSide":"top","label":"Teil der Hierarchie"},
+		{"id":"edge_cpu_hierarchie","fromNode":"cpu_node","fromSide":"bottom","toNode":"hierarchie_node","toSide":"left","label":"Register (Spitze)"}
+	]
 }

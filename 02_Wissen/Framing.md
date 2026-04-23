@@ -4,7 +4,7 @@ Den kontinuierlichen **Bitstrom** der physikalischen Schicht in logisch erkennba
 
 **Frame-Aufbau:**
 ```
-| Header | Nutzdaten (Payload) | Trailer (z. B. CRC) |
+| Flag | Header | Nutzdaten (Payload) | Trailer (z. B. CRC) | Flag |
 ```
 
 Ohne Framing: Empfänger weiß nicht, wo ein Paket beginnt/endet oder ob es korrekt ist.

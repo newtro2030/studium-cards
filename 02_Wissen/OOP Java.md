@@ -1,1 +1,0 @@
-Pakete -> Klassen -> Objekte -> Methoden

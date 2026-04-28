@@ -1,2 +1,0 @@
-Konzeptionelles Datenbankmodell?
-ER-Modell

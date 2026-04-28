@@ -1,0 +1,9 @@
+# Alle Dateien und Ordner im Hauptverzeichnis ignorieren
+/*
+
+# Diese spezifischen Ordner explizit erlauben (inklusive deren Inhalt)
+!/02_Wissen/
+!/03_Canvas/
+
+# Die .gitignore Datei selbst erlauben, damit diese Regel geteilt wird
+!/.gitignore

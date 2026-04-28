@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"grp_kap3","type":"group","x":-1820,"y":220,"width":1700,"height":520,"label":"Kapitel 3 – Data Link & MAC Layer"},
+		{"id":"grp_kap1","type":"group","x":-1820,"y":-380,"width":1700,"height":500,"label":"Kapitel 1 – Grundlagen"},
+		{"id":"grp_kap2","type":"group","x":0,"y":-380,"width":1620,"height":500,"label":"Kapitel 2 – Physical Layer"},
+		{"id":"grp_kap4","type":"group","x":0,"y":220,"width":930,"height":370,"label":"Kapitel 4 – Kanalzuweisung & ALOHA"},
+		{"id":"rn_title","type":"text","text":"# Rechnernetze\n\nÜberblick über alle Wissensbausteine nach Kapiteln","x":-400,"y":-720,"width":800,"height":120},
+		{"id":"f_overview","type":"file","file":"02_Wissen/Rechnernetze – Überblick.md","x":-1800,"y":-320,"width":490,"height":160},
+		{"id":"f_netztypen","type":"file","file":"02_Wissen/Netzwerktypen (PAN, LAN, MAN, WAN).md","x":-1290,"y":-320,"width":490,"height":160},
+		{"id":"f_software","type":"file","file":"02_Wissen/Netzwerksoftware.md","x":-780,"y":-320,"width":490,"height":160},
+		{"id":"f_physdaten","type":"file","file":"02_Wissen/Physikalische Datenübertragung.md","x":20,"y":-320,"width":490,"height":160},
+		{"id":"f_medien","type":"file","file":"02_Wissen/Übertragungsmedien.md","x":530,"y":-320,"width":490,"height":160},
+		{"id":"f_drahtlos","type":"file","file":"02_Wissen/Drahtlose Übertragung.md","x":1060,"y":-320,"width":490,"height":160},
+		{"id":"f_sicherung","type":"file","file":"02_Wissen/Sicherungsschicht.md","x":-1800,"y":280,"width":380,"height":160},
+		{"id":"f_framing","type":"file","file":"02_Wissen/Framing.md","x":-1400,"y":280,"width":380,"height":160},
+		{"id":"f_kanal","type":"file","file":"02_Wissen/Kanalzuweisung.md","x":20,"y":280,"width":420,"height":160},
+		{"id":"f_aloha","type":"file","file":"02_Wissen/ALOHA-Protokolle.md","x":460,"y":280,"width":420,"height":160},
+		{"id":"f_fehlerk","type":"file","file":"02_Wissen/Fehlererkennung.md","x":-1000,"y":280,"width":380,"height":160},
+		{"id":"f_fehlerkorr","type":"file","file":"02_Wissen/Fehlerkorrektur.md","x":-600,"y":280,"width":380,"height":160},
+		{"id":"f_fluss","type":"file","file":"02_Wissen/Flusskontrolle.md","x":-1800,"y":520,"width":380,"height":160},
+		{"id":"f_mac","type":"file","file":"02_Wissen/MAC-Sublayer.md","x":-1400,"y":520,"width":380,"height":160},
+		{"id":"f_ethernet","type":"file","file":"02_Wissen/Ethernet (IEEE 802.3).md","x":-1000,"y":520,"width":380,"height":160},
+		{"id":"f_wlan","type":"file","file":"02_Wissen/WLAN (IEEE 802.11).md","x":-600,"y":520,"width":380,"height":160},
+		{"id":"f_osi","type":"file","file":"02_Wissen/OSI- und TCP-IP-Modell.md","x":-1800,"y":-80,"width":490,"height":160},
+		{"id":"f_standards","type":"file","file":"02_Wissen/Netzwerkstandards.md","x":-1290,"y":-80,"width":490,"height":160},
+		{"id":"f_mobilfunk","type":"file","file":"02_Wissen/Mobilfunk.md","x":530,"y":-80,"width":490,"height":160},
+		{"id":"f_kabel","type":"file","file":"02_Wissen/Kabelfernsehnetze.md","x":1060,"y":-80,"width":490,"height":160},
+		{"id":"f_pstn","type":"file","file":"02_Wissen/PSTN.md","x":20,"y":-80,"width":490,"height":160}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"rn_title","fromSide":"left","toNode":"grp_kap1","toSide":"top"},
+		{"id":"e2","fromNode":"rn_title","fromSide":"bottom","toNode":"grp_kap3","toSide":"top"},
+		{"id":"e3","fromNode":"rn_title","fromSide":"right","toNode":"grp_kap2","toSide":"top"},
+		{"id":"e4","fromNode":"rn_title","fromSide":"right","toNode":"grp_kap4","toSide":"top"}
+	]
+}

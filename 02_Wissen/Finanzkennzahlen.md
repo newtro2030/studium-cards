@@ -33,7 +33,7 @@ Beurteilen die Kapitalstruktur der Passivseite:
 
 
 
-Lernkarten #InvestitionUndFinanzierung 
+## Lernkarten #InvestitionUndFinanzierung 
 
 Q: Wozu dienen Liquiditätskennzahlen?  
 A: Sie dienen der Beurteilung der kurzfristigen Zahlungsfähigkeit eines Unternehmens und zeigen, ob kurzfristige Verbindlichkeiten fristgerecht bezahlt werden können.

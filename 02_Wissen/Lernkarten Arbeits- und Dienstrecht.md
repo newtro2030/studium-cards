@@ -1,5 +1,13 @@
 ## Lernkarten #Arbeits-und-Dienstrecht
 
+Q: Nennen Sie vier Rechtsquellen des Arbeitsrechts!
+
+A: 
+- Gesetze
+- Tarifverträge
+- Betriebsvereinbarungen
+- 
+
 Q: Erläutern Sie zwei Merkmale, die Arbeitsverhältnisse von den meisten anderen Privatrechtsverhältnissen unterscheiden, und welche Besonderheiten des Arbeitsrechts aus diesen Merkmalen folgen?
 A:
 

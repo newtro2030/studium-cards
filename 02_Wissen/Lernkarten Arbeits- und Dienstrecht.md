@@ -28,3 +28,6 @@ Der Arbeitgeber braucht ein berechtigtes, arbeitsplatzbezogenes Interesse.
 A: Dürfen Bewerber bei der Einstellung wegen ihres hohen Alters benachteiligt werden? Kann eine Benachteiligung wegen des Alters gerechtfertigt werden? Nennen Sie die gesetzliche(n) Grundlage(n)!
 
 Q:
+Eine Benachteiligung wegen hohen Alters ist grundsätzlich nach §§ 1, 7 Abs. 1 AGG verboten, kann aber ausnahmsweise nach § 10 AGG gerechtfertigt sein, wenn sie objektiv und angemessen sowie durch ein legitimes Ziel gerechtfertigt ist.
+
+A: 

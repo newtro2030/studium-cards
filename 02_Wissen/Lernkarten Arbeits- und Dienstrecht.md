@@ -6,7 +6,7 @@ A:
 - Gesetze
 - Tarifverträge
 - Betriebsvereinbarungen
-- 
+- Arbeitsvertrag
 
 Q: Erläutern Sie zwei Merkmale, die Arbeitsverhältnisse von den meisten anderen Privatrechtsverhältnissen unterscheiden, und welche Besonderheiten des Arbeitsrechts aus diesen Merkmalen folgen?
 A:
@@ -281,20 +281,4 @@ Gehorsamspflicht (§ 35 BeamtStG): Beratung und Unterstützung Vorgesetzter, Bef
 Verschwiegenheitspflicht (§ 37 BeamtStG): Über dienstlich bekannte Angelegenheiten auch nach Beendigung schweigen.
 (Weitere: Diensteid § 38 BeamtStG; Verbot der Annahme von Belohnungen/Geschenken § 42 BeamtStG.)
 
-Q: ==[Klausur]== Eine Beamtin des Freistaates Thüringen wird durch ihren Vorgesetzten zu einem rechtswidrigen Verhalten aufgefordert. Muss sie der Aufforderung nachkommen? Was muss sie beachten? Nennen Sie die gesetzliche(n) Grundlage(n)!
-A: Grundsätzlich Gehorsamspflicht (§ 35 BeamtStG). Bei Bedenken gegen die Rechtmäßigkeit gilt aber die Remonstrationspflicht (§ 36 BeamtStG):
-
-1. Bedenken unverzüglich beim unmittelbaren Vorgesetzten geltend machen.
-2. Wird die Anordnung aufrechterhalten → an nächsthöheren Vorgesetzten wenden.
-3. Wird auch dort bestätigt → ausführen, Verantwortlichkeit der Beamtin entfällt (§ 36 II BeamtStG).
-Ausnahme – darf nicht ausgeführt werden: Verhalten ist strafbar oder ordnungswidrig und Beamtin erkennt das, oder die Würde des Menschen wird verletzt (§ 36 II 3 BeamtStG).
-
-Q: ==[Klausur]== Nennen Sie vier Unterschiede zwischen einem Beamtenverhältnis und einem Arbeitsverhältnis!
-A:
-
-Rechtsgrundlage: öffentlich-rechtlich (Ernennung, Verwaltungsakt) vs. privatrechtlich (Arbeitsvertrag).
-Begründung: einseitig durch Ernennungsurkunde (§ 8 BeamtStG) vs. zweiseitig durch Vertrag (§ 611a BGB).
-Streikrecht: Beamte haben kein Streikrecht; Arbeitnehmer haben Streikrecht (Art. 9 III GG).
-Sozialversicherung: Beamte sind nicht sozialversicherungspflichtig (eigene Versorgung/Beihilfe); AN sind sozialversicherungspflichtig.
-Beendigung: Beamte auf Lebenszeit grds. unkündbar; AN durch Kündigung beendbar.
-Rechtsweg: Verwaltungsgericht vs. Arbeitsgericht.
+Q: ==[Klausur]== Eine Beamtin des Freistaates Thüringen wird durch ihren Vorgesetzten zu einem rechtswidrigen Verhalten aufgefordert. Muss sie der Aufforderung nachkommen? Was muss sie beachten? Nennen Sie die

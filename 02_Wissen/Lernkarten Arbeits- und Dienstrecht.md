@@ -3,11 +3,11 @@
 Q: ==[Klausur]== Nennen Sie vier Rechtsquellen des Arbeitsrechts!
 A:
 
-EU-Recht (z.B. AEUV, Grundrechtecharta, arbeitsrechtliche Richtlinien).
+- Gesetze: EU-Recht (z.B. AEUV, Grundrechtecharta, arbeitsrechtliche Richtlinien).
 Grundgesetz (z.B. Art. 9 III GG Koalitionsfreiheit, Art. 12 I GG Berufsfreiheit, Art. 3 GG Gleichheit).
 Gesetzesrecht – BGB (§§ 611a ff.), KSchG, BUrlG, ArbZG, AGG, MuSchG, TzBfG, MiLoG, EntgFG, JArbSchG, ArbSchG.
-Tarifverträge (Grundlage: TVG).
-(weitere: Betriebsvereinbarungen nach BetrVG; Arbeitsvertrag).
+- Tarifverträge (Grundlage: TVG).
+- Betriebsvereinbarungen nach BetrVG; Arbeitsvertrag).
 
 Q: ==[Klausur]== Nennen Sie ein Beispiel für eine generell zulässige und eine generell unzulässige Frage! Nennen Sie außerdem ein Beispiel für eine begrenzt zulässige Frage und erläutern Sie, unter welchen Umständen die Frage zulässig ist!
 A:

@@ -1,6 +1,6 @@
 ## Lernkarten #Vergaberecht
 
-Q: Nennen alle Grundprinzipen des Vergaberechts
+Q: Nennen alle Grundprinzipen des Vergaberechts (Ziele des Vergaberechts)
 A: Transparenz
 Gleichbehandlung, 
 Wirtschaftlichkeit,

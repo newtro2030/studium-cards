@@ -15,8 +15,8 @@ A: Das GWB (§§ 97 ff.) enthält die maßgeblichen Vorschriften zum Anwendungsb
 Q: Welche Vergabeverfahrensarten gibt es und wie unterscheiden sie sich?
 A: 1. Öffentliche Ausschreibung: Bekanntmachung, Angebotsabgabe, Wertung (4 Stufen), Zuschlag. 2. Beschränkte Ausschreibung mit Teilnahmewettbewerb: vorgeschalteter Teilnahmewettbewerb, Aufforderung an mind. 3/5 Unternehmen. 3. Beschränkte Ausschreibung: Aufforderung an mind. 3 Unternehmen (Regel 5). 4. Verhandlungsvergabe: Teilnahmewettbewerb, mind. 3 Unternehmen, Verhandlungsrunde, BAFO, Zuschlag.
 
-Q: Nennen Sie die 11 Schritte im Ablauf eines Vergabeverfahrens
-A: 1. Ermittlung des Bedarfs, 2. Erarbeitung der Vergabeunterlagen, 3. Festlegung der Vergabeart, 4. Bekanntmachung der Ausschreibung, 5. Anfordern/Versand der Vergabeunterlagen, 6. Angebotsabgabe, 7. Verwahrung und Öffnung der Angebote, 8. Prüfung der Angebote (formell), 9. Wertung der Angebote (Eignung, Auskömmlichkeit, Wirtschaftlichkeit), 10. Zuschlag oder Aufhebung, 11. Information nicht berücksichtigter Bieter.
+Q: Nennen Sie die Schritte im Ablauf eines Vergabeverfahrens
+A: 1. Bedarf (Feststellung, Kosten schätzen, Schwellenwert prüfen), 2. Ausschreibung (Vergabeart wählen, Vergabeunterlagen erstellen, Bekanntmachung/Ausschreibung), 3. Angebot (eingereicht und geöffnet), 4. Prüfung (formale, nach Eignung, Angebote werten nach Wirtschaftlichkeit), 5. Zuschlag (erteilen, Vertrag kommt zustande, )
 
 Q: Was wird bei der Wertung der Angebote geprüft?
 A: 1. Eignungsprüfung (technische und infrastrukturelle Ausstattung, personelle Ressourcen, Qualifikationen, Referenzen, wirtschaftliche Leistungsfähigkeit). 2. Auskömmlichkeit des Angebots (wirtschaftlich realistisch kalkuliert und Erfüllung ohne wirtschaftliche Schwierigkeiten; bei einem ungewöhnlich niedrigen Preis, kann das Angebot nicht auskömmlich sein). 3. Wirtschaftlichkeit (Preis-Leistungs-Verhältnis: Qualität, Nachhaltigkeit, Betriebs- und Wartungskosten, Folgekosten, Lebensdauer).

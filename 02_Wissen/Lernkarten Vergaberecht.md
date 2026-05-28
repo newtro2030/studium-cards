@@ -4,7 +4,7 @@ Q: Nennen Sie alle sechs Grundprinzipien des Vergaberechts (§ 97 GWB)
 A: 1. Gleichbehandlung, 2. Transparenz, 3. Wettbewerb, 4. Wirtschaftlichkeit, 5. Verhältnismäßigkeit, 6. Mittelstandsschutz
 
 Q: Welches strategische Ziel verfolgt das Vergaberecht?
-A: wirtschaftliche, sparsame, faire, wettbewerbliche B
+A: wirtschaftliche, sparsame, faire, wettbewerbliche Beschaffung öffentlicher Leistungen.
 
 Q: Nennen Sie die Rechtsquellen des Vergaberechts in ihrer Normenhierarchie
 A: 1. EU-Recht: AEUV, EU-Vergaberichtlinien (EUVR). 2. Nationalrecht: GWB (§§ 97 ff.). 3. Rechtsverordnungen: VgV, VSVgV, SektVO. 4. Landesrecht: ThürVgG. 5. Haushaltsrecht: VOB/A, UVgO.

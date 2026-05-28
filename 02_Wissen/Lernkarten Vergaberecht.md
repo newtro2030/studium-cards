@@ -18,8 +18,8 @@ A: 1. Öffentliche Ausschreibung: Bekanntmachung, Angebotsabgabe, Wertung (4 Stu
 Q: Nennen Sie die 11 Schritte im Ablauf eines Vergabeverfahrens
 A: 1. Ermittlung des Bedarfs, 2. Erarbeitung der Vergabeunterlagen, 3. Festlegung der Vergabeart, 4. Bekanntmachung der Ausschreibung, 5. Anfordern/Versand der Vergabeunterlagen, 6. Angebotsabgabe, 7. Verwahrung und Öffnung der Angebote, 8. Prüfung der Angebote (formell), 9. Wertung der Angebote (Eignung, Auskömmlichkeit, Wirtschaftlichkeit), 10. Zuschlag oder Aufhebung, 11. Information nicht berücksichtigter Bieter.
 
-Q: Was wird bei der Wertung der Angebote geprüft (Schritt 9)?
-A: Drei Prüfungen: 1. Eignungsprüfung (infrastrukturelle, personelle Ressourcen, Qualifikationen, Referenzen). 2. Auskömmlichkeit des Angebots (kann der Bieter ohne wirtschaftliche Schwierigkeiten leisten? Verdacht bei >20% Preisdifferenz). 3. Wirtschaftlichkeit (Preis-Leistungs-Verhältnis, Nebenangebote prüfen).
+Q: Was wird bei der Wertung der Angebote geprüft?
+A: 1. Eignungsprüfung (technische und infrastrukturelle Ausstattung, personelle Ressourcen, Qualifikationen, Referenzen, wirtschaftliche Leistungsfähigkeit). 2. Auskömmlichkeit des Angebots (wirtschaftlich realistisch kalkuliert und Erfüllung ohne wirtschaftliche Schwierigkeiten; bei einem ungewöhnlich niedrigen Preis, kann das Angebot nicht aus). 3. Wirtschaftlichkeit (Preis-Leistungs-Verhältnis, Nebenangebote prüfen).
 
 Q: Was bedeutet das Prinzip der Wirtschaftlichkeit im Vergaberecht (§ 127 GWB)?
 A: Wirtschaftlichkeit ist nicht gleichzusetzen mit dem niedrigsten Preis. Es gilt das beste Preis-Leistungs-Verhältnis. Zuschlagskriterien nach § 127 GWB umfassen auch Qualität, Lebenszykluskosten, soziale/umweltbezogene/innovative Aspekte (§ 97 III GWB).

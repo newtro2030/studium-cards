@@ -16,7 +16,7 @@ Q: Welche Vergabeverfahrensarten gibt es und wie unterscheiden sie sich?
 A: 1. Öffentliche Ausschreibung: Bekanntmachung, Angebotsabgabe, Wertung (4 Stufen), Zuschlag. 2. Beschränkte Ausschreibung mit Teilnahmewettbewerb: vorgeschalteter Teilnahmewettbewerb, Aufforderung an mind. 3/5 Unternehmen. 3. Beschränkte Ausschreibung: Aufforderung an mind. 3 Unternehmen (Regel 5). 4. Verhandlungsvergabe: Teilnahmewettbewerb, mind. 3 Unternehmen, Verhandlungsrunde, BAFO, Zuschlag.
 
 Q: Nennen Sie die Schritte im Ablauf eines Vergabeverfahrens
-A: 1. Bedarf (Feststellung, Kosten schätzen, Schwellenwert prüfen), 2. Ausschreibung (Vergabeart wählen, Vergabeunterlagen erstellen, Bekanntmachung/Ausschreibung), 3. Angebot (eingereicht und geöffnet), 4. Prüfung (formale, nach Eignung, Angebote werten nach Wirtschaftlichkeit), 5. Zuschlag (erteilen, Vertrag kommt zustande, )
+A: 1. Bedarf (Feststellung, Kosten schätzen, Schwellenwert prüfen), 2. Ausschreibung (Vergabeart wählen, Vergabeunterlagen erstellen, Bekanntmachung/Ausschreibung), 3. Angebot (eingereicht und geöffnet), 4. Prüfung (formale, nach Eignung, Angebote werten nach Wirtschaftlichkeit), 5. Zuschlag (erteilen, Vertrag kommt zustande, Dokumentation)
 
 Q: Was wird bei der Wertung der Angebote geprüft?
 A: 1. Eignungsprüfung (technische und infrastrukturelle Ausstattung, personelle Ressourcen, Qualifikationen, Referenzen, wirtschaftliche Leistungsfähigkeit). 2. Auskömmlichkeit des Angebots (wirtschaftlich realistisch kalkuliert und Erfüllung ohne wirtschaftliche Schwierigkeiten; bei einem ungewöhnlich niedrigen Preis, kann das Angebot nicht auskömmlich sein). 3. Wirtschaftlichkeit (Preis-Leistungs-Verhältnis: Qualität, Nachhaltigkeit, Betriebs- und Wartungskosten, Folgekosten, Lebensdauer).

@@ -23,7 +23,7 @@ Im Haushalt wird zwischen verschiedenen Einnahmen unterschieden. Ein wichtiger P
 - **Jährlichkeit**: Gilt immer für ein Kalenderjahr.
 - **Öffentlichkeit**: Die Bürger müssen informiert werden.
 
-→ Siehe auch: [[Haushaltssatzung]] | [[Haushaltskreislauf]] | [[Haushaltsausgleich]] | [[Doppik und NKF]]
+→ Siehe auch: [[Haushaltssatzung]] | [[02_Wissen/Haushaltskreislauf]] | [[Haushaltsausgleich]] | [[Doppik und NKF]]
 
 ## Lernkarten #FinanzBilanzmanagement
 

@@ -48,7 +48,7 @@ Inhalt: Nachweis der Ist-Einnahmen und -Ausgaben des Verwaltungs- und Vermögens
 
 > **Merksatz:** Das RPA prüft intern und unabhängig – der Rechnungshof prüft übergeordnet. Beide sichern Rechtmäßigkeit, Ordnungsmäßigkeit und Wirtschaftlichkeit.
 
-→ Siehe auch: [[Kameralistik]] | [[Doppik und NKF]] | [[Haushaltskreislauf]] | [[Rechtsaufsicht]]
+→ Siehe auch: [[Kameralistik]] | [[Doppik und NKF]] | [[02_Wissen/Haushaltskreislauf]] | [[Rechtsaufsicht]]
 
 ## Lernkarten #FinanzBilanzmanagement
 

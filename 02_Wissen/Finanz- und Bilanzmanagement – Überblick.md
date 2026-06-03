@@ -47,7 +47,7 @@ Finanz- und Bilanzmanagement
 │   ├── Finanzrechnung
 │   └── Bilanz (Vermögensrechnung)
 ├── [[Haushaltsausgleich]]
-├── [[Haushaltskreislauf]]
+├── [[02_Wissen/Haushaltskreislauf]]
 ├── [[Jahresabschluss und Rechnungsprüfung]]
 ├── [[Beteiligungsbericht]]
 ├── [[Billigkeitsmaßnahmen]]

@@ -18,7 +18,7 @@ Nicht der gesamte Haushalt muss genehmigt werden, sondern nur bestimmte Teile:
 
 > **Merksatz:** Beschluss → Vorlage → Bekanntmachung. Ohne Bekanntmachung gibt es keinen gültigen Haushalt!
 
-→ Siehe auch: [[Haushalt]] | [[Haushaltskreislauf]] | [[Vorläufige Haushaltsführung]]
+→ Siehe auch: [[Haushalt]] | [[02_Wissen/Haushaltskreislauf]] | [[Vorläufige Haushaltsführung]]
 
 ## Lernkarten #FinanzBilanzmanagement
 
